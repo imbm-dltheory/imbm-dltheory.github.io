@@ -1,8 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Istanbul Workshop on Theory of Deep Learning at IMBM
 ---
+
+![Istanbul 2010](https://upload.wikimedia.org/wikipedia/commons/5/5e/Istanbul2010.jpg)
 
 This text is written in the file `index.md`.
