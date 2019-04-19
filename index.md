@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+This text is written in the file `index.md`.
