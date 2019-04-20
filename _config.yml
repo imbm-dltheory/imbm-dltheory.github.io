@@ -26,22 +26,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 minima:
   date_format: "%b %-d, %Y"
 
-  # generate social links in footer
   social_links:
     github:  imbm-dltheory
 
-# Build settings
 markdown: kramdown
 remote_theme: jekyll/minima
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+plugins:
+  - jekyll-seo-tag
