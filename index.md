@@ -2,6 +2,6 @@
 layout: home
 ---
 
-![Istanbul 2010](https://upload.wikimedia.org/wikipedia/commons/5/5e/Istanbul2010.jpg)
+##Workshop on Theoretical Advances in Deep Learning  
 
-This text is written in the file `index.md`.
+![Istanbul 2010](https://upload.wikimedia.org/wikipedia/commons/5/5e/Istanbul2010.jpg)
