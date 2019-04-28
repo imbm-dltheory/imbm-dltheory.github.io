@@ -1,7 +1,10 @@
 ---
 layout: page
 title: Program
-permalink: /Program/
+permalink: /program/
 ---
 
 TBD
+
+Tentative list of participants:
+

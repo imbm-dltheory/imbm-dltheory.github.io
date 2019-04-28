@@ -2,6 +2,6 @@
 layout: home
 ---
 
-##Workshop on Theoretical Advances in Deep Learning  
+## Workshop on Theoretical Advances in Deep Learning  
 
-![Istanbul 2010](https://upload.wikimedia.org/wikipedia/commons/5/5e/Istanbul2010.jpg)
+![IMBM](http://imbm.org.tr/HSpin15/Bogazici_Aerial_View.jpg)
