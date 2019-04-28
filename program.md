@@ -6,9 +6,9 @@ permalink: /program/
 
 TBD
 
-Tentative list of participants[^*]:  
+Tentative list of participants[^1] :  
 
-[^*] The list is tentative and may be updated frequently until late May.  
+[^1]: The list is tentative and may be updated frequently until late May.  
 
 
 Organizers:  
