@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-# title: Istanbul Workshop on Theory of DL
+title: IMBM Theory of DL
 fullname: Workshop on Theoretical Advances in Deep Learning at IMBM
 email: imbm.dltheory@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
