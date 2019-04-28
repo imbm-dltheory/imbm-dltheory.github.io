@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-**Workshop on Theoretical Advances in Deep Learning** will take place at the Istanbul Center for Mathematical Sciences ([IMBM](http://www.imbm.org.tr)).  
+**Workshop on Theoretical Advances in Deep Learning** will take place at the Istanbul Center for Mathematical Sciences ([IMBM](http://www.imbm.org.tr)). The venue is located inside the [Bogazici University](http://www.boun.edu.tr/en_US/Content/About_BU/About_BU) main campus.  
 
 **Dates:** Monday, July 29 - Friday, August 2, 2019   
 
