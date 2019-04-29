@@ -32,3 +32,8 @@ remote_theme: jekyll/minima
 
 plugins:
   - jekyll-seo-tag
+
+header_pages:
+  - program.md
+  - about.md
+  - contact.md
