@@ -34,6 +34,6 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
-  - program.md
   - about.md
+  - program.md
   - contact.md
