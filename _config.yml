@@ -16,8 +16,8 @@
 title: Theory of DL at IMBM
 fullname: Workshop on Theoretical Advances in Deep Learning at IMBM
 email: imbm.dltheory@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Workshop on Theoretical Advances in Deep Learning
+# description: >- # this means to ignore newlines until "baseurl:"
+#  Workshop on Theoretical Advances in Deep Learning
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
