@@ -4,11 +4,11 @@ title: Program
 permalink: /program/
 ---
 
-The schedule will be announced later [^slides].
+The schedule will be announced later[^slides].
 
 [^slides]: We will not be able to record the talks but we will post the slides here.
 
-Tentative list of participants[^1] will be posted soon.  
+Tentative list of participants[^1] will be posted sooner.  
 
 [^1]: The list is tentative and may be updated frequently until late May.  
 
