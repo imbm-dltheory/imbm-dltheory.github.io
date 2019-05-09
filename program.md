@@ -49,6 +49,7 @@ _Organizers:_
 - Giulio Biroli, ENS  
 - Matthieu Wyart, EPFL  
 
+---
 
 [^slides]: We will not be able to record the talks but we will post the slides here.  
 [^tbc]: To be confirmed soon, list may grow.  
