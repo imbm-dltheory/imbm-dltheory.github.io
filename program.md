@@ -40,6 +40,7 @@ _List of participants (tentative, including organizers)[^tbc]:_
 - Levent Sagun, EPFL  
 - Andrew Saxe, University of Oxford  
 - David Schwab, CUNY  
+- Sam Smith, DeepMind  
 - Stefano Spigler, EPFL  
 - Eric Vanden Eijnden, NYU  
 - Soledad Villar, NYU  
