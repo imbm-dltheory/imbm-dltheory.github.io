@@ -28,6 +28,7 @@ _List of participants (tentative, including organizers)[^tbc]:_
 - Caglar Gulcehre, DeepMind  
 - Alp Guler, Imperial College London  
 - Mert Gurbuzbalaban, Rutgers Business School  
+- Arthur Jacot, EPFL  
 - Florent Krzakala, ENS  
 - Simon Lacoste Julien, MILA  
 - Jaehoon Lee, Google Brain  
