@@ -18,7 +18,7 @@ We will have tutorials by Chiara Cammarota, Caglar Gulcehre, Orhan Firat, Alp Gu
 
 ***Tuesday, July 30 - Thursday, August 1:*** Core workshop, talks by participants. The full schedule will be announced later. We will not be able to record the talks but we will post the slides here.    
 
-***Thursday, August 1, evening:*** Group dinner.  
+***Thursday, August 1:*** Group dinner.  
 
 ***Friday, August 2:*** Discussions and brainstorming sessions.
 
