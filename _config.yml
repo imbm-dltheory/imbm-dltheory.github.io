@@ -36,4 +36,5 @@ plugins:
 header_pages:
   - about.md
   - program.md
+  - participants.md
   - contact.md
