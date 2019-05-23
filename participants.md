@@ -7,7 +7,6 @@ permalink: /participants/
 _List of participants (tentative, including organizers)[^tbc]:_   
 
 - Ethem Alpaydin, Bogazici University  
-- Yasaman Bahri, Google Brain  
 - Aristide Baratin, MILA  
 - Ishmael Belghazi, MILA/FAIR  
 - David Belius, University of Basel  
