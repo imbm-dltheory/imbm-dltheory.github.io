@@ -9,7 +9,7 @@ The workshop will start with a broad audience event on Monday, July 29 on the ca
 ***Sunday, July 28:*** Social day, a guided visit at [Pera Museum](https://www.peramuseum.org) in Taksim.
 
 ***Monday, July 29:*** Tutorials and Keynote (open to all students and faculty)  
-We will have tutorials by Chiara Cammarota, Caglar Gulcehre, Orhan Firat, Alp Guler, and Yasaman Bahri (to be confirmed). The tutorials will cover a range of topics and 50% of it will be accessible to advanced undergraduates and beginning graduate students. Topics inlude:  
+We will have tutorials by Chiara Cammarota, Caglar Gulcehre, Orhan Firat, and Alp Guler (to be confirmed). The tutorials will cover a range of topics and 50% of it will be accessible to advanced undergraduates and beginning graduate students. Topics inlude:  
 - Gaussian processes and neural networks  
 - Glassy systems, dynamics and applications  
 - Role of geometry in learning structure in data  
