@@ -8,7 +8,7 @@ _List of participants (tentative, including organizers)[^tbc]:_
 
 - Ethem Alpaydin, Bogazici University  
 - Aristide Baratin, MILA  
-- Ishmael Belghazi, MILA/FAIR  
+- Ishmael Belghazi, MILA & Facebook AI    
 - David Belius, University of Basel  
 - Gerard Ben Arous, NYU  
 - Giulio Biroli, ENS  
