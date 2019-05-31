@@ -4,7 +4,7 @@ title: Participants
 permalink: /participants/
 ---
 
-_List of participants (tentative, including organizers)[^tbc]:_   
+_List of participants (tentative, including organizers):_   
 
 - Ethem Alpaydin, Bogazici University  
 - Aristide Baratin, MILA  
@@ -46,5 +46,4 @@ _List of participants (tentative, including organizers)[^tbc]:_
 
 ---
 
-[^tbc]: The list is tentative, may grow    
 \*: Organizers  
