@@ -11,7 +11,7 @@ _List of participants (tentative, including organizers)[^tbc]:_
 - Ishmael Belghazi, MILA & Facebook AI    
 - David Belius, University of Basel  
 - Gerard Ben Arous, NYU  
-- Giulio Biroli, ENS  
+- \*Giulio Biroli, ENS  
 - Chiara Cammarota, King's College London  
 - Volkan Cevher, EPFL  
 - Ekin Dogus Cubuk, Google Brain  
@@ -33,17 +33,18 @@ _List of participants (tentative, including organizers)[^tbc]:_
 - Behnam Neyshabur, NYU  
 - Mihai Nica, University of Toronto  
 - Dan Roberts, Facebook AI  
-- Levent Sagun, EPFL  
+- \*Levent Sagun, EPFL  
 - Andrew Saxe, University of Oxford  
 - David Schwab, CUNY  
 - Sam Smith, DeepMind  
 - Stefano Spigler, EPFL  
 - Eric Vanden Eijnden, NYU  
 - Soledad Villar, NYU  
-- Matthieu Wyart, EPFL  
+- \*Matthieu Wyart, EPFL  
 - Sho Yaida, Facebook AI  
 - Lenka Zdeborova, CEA  
 
 ---
 
-[^tbc]: List may grow.  
+[^tbc]: The list is tentative, may grow    
+\*: Organizers  
