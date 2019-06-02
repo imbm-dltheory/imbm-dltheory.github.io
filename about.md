@@ -22,4 +22,9 @@ Topics will include:
 **Organizers:** 
 - Levent Sagun, EPFL
 - Giulio Biroli, ENS
-- Matthieu Wyart, EPFL
+- Matthieu Wyart, EPFL  
+
+**Local and tech support:** 
+- Umit, Bogazici University    
+- Mario Geiger, EPFL  
+
