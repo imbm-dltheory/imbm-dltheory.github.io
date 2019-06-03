@@ -22,7 +22,8 @@ _List of participants (tentative, including organizers):_
 - Ethan Dyer, Google  
 - Alp Eden, Bogazici University (retired)  
 - Armin Eftekhari, EPFL  
-- Utku  Evci, Google  
+- Utku Evci, Google  
+- Silvio Franz, Universite Paris-Sud  
 - Marylou Gabrie, ENS  
 - Caglar Gulcehre, DeepMind  
 - Alp Guler, Imperial College London  
@@ -37,6 +38,7 @@ _List of participants (tentative, including organizers):_
 - Behnam Neyshabur, NYU  
 - Mihai Nica, University of Toronto  
 - Roman Novak, Google   
+- Vardan Papyan, Stanford  
 - Dan Roberts, Diffeo Labs    
 - \*Levent Sagun, EPFL  
 - Andrew Saxe, University of Oxford  
