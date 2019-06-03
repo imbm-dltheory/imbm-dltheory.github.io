@@ -24,3 +24,6 @@ Topics will include:
 - Giulio Biroli, ENS
 - Matthieu Wyart, EPFL  
 
+**Commute to the venue:**  
+The subway station next to the campus is [Bogazici Universitesi Istasyonu](https://goo.gl/maps/VrC42pG9vi7u2vpW9). It is the last stop on line M6. Take line M2 (goes through Taksim) and transfer at the station called _Levent_ (you can't miss it!).
+
