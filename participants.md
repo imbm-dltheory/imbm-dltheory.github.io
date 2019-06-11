@@ -16,7 +16,6 @@ _List of participants (tentative, including organizers):_
 - Gerard Ben Arous, NYU  
 - \*Giulio Biroli, ENS  
 - Chiara Cammarota, King's College London  
-- Ekin Dogus Cubuk, Google Brain  
 - Stephane d'Ascoli, ENS  
 - Ethan Dyer, Google  
 - Alp Eden, Bogazici University (retired)  
