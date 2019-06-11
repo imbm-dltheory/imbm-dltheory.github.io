@@ -22,10 +22,11 @@ _List of participants (tentative, including organizers):_
 - Alp Eden, Bogazici University (retired)  
 - Armin Eftekhari, EPFL  
 - Utku Evci, Google  
+- Orhan Firat, Google   
 - Silvio Franz, Universite Paris-Sud  
 - Marylou Gabrie, ENS  
+- Surya Ganguli, Stanford   
 - Caglar Gulcehre, DeepMind  
-- Alp Guler, Imperial College London  
 - Mert Gurbuzbalaban, Rutgers Business School  
 - Arthur Jacot, EPFL  
 - Florent Krzakala, ENS  
