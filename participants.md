@@ -4,7 +4,7 @@ title: Participants
 permalink: /participants/
 ---
 
-_List of participants (tentative, including organizers):_   
+_List of participants (including organizers):_   
 
 - Ethem Alpaydin, Bogazici University  
 - Anima Anandkumar, Caltech & NVIDIA  
@@ -14,7 +14,7 @@ _List of participants (tentative, including organizers):_
 - Ishmael Belghazi, MILA & Facebook AI    
 - David Belius, University of Basel  
 - Gerard Ben Arous, NYU  
-- \*Giulio Biroli, ENS  
+- &dagger;Giulio Biroli, ENS  
 - Chiara Cammarota, King's College London  
 - Stephane d'Ascoli, ENS  
 - Ethan Dyer, Google  
@@ -39,7 +39,7 @@ _List of participants (tentative, including organizers):_
 - Roman Novak, Google   
 - Vardan Papyan, Stanford  
 - Dan Roberts, Diffeo Labs    
-- \*Levent Sagun, EPFL  
+- &dagger;Levent Sagun, EPFL  
 - Andrew Saxe, University of Oxford  
 - David Schwab, CUNY  
 - Berfin Simsek, EPFL  
@@ -47,10 +47,10 @@ _List of participants (tentative, including organizers):_
 - Stefano Spigler, EPFL  
 - Eric Vanden-Eijnden, NYU  
 - Soledad Villar, NYU  
-- \*Matthieu Wyart, EPFL  
+- &dagger;Matthieu Wyart, EPFL  
 - Sho Yaida, Facebook AI  
 - Lenka Zdeborova, CEA  
 
 ---
 
-\*: Organizers  
+&dagger;: Organizers  
