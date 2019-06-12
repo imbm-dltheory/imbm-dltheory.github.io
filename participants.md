@@ -51,7 +51,7 @@ _List of participants (including organizers):_
 - \*Sho Yaida, Facebook AI  
 - Lenka Zdeborova, CEA  
 
----
+--- 
 
 \*: To be confirmed  
 &dagger;: Organizers    
