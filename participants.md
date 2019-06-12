@@ -53,5 +53,6 @@ _List of participants (including organizers):_
 
 ---
 
-&dagger;: Organizers   
 \*: To be confirmed  
+&dagger;: Organizers    
+
