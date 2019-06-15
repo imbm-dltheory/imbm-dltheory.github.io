@@ -48,7 +48,7 @@ _List of participants (including organizers):_
 - Eric Vanden-Eijnden, NYU  
 - \*Soledad Villar, NYU  
 - &dagger;Matthieu Wyart, EPFL  
-- \*Sho Yaida, Facebook AI  
+- Sho Yaida, Facebook AI  
 - Lenka Zdeborova, CEA  
 
 --- 
