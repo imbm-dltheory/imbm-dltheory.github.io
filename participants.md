@@ -28,6 +28,7 @@ _List of participants (including organizers):_
 - \*Caglar Gulcehre, DeepMind  
 - Mert Gurbuzbalaban, Rutgers Business School  
 - Arthur Jacot, EPFL  
+- Mehmet Kiral, Sophia University  
 - Florent Krzakala, ENS  
 - \*Simon Lacoste-Julien, MILA  
 - \*Jaehoon Lee, Google Brain  
