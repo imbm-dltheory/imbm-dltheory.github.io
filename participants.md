@@ -6,7 +6,7 @@ permalink: /participants/
 
 _List of participants (including organizers):_   
 
-- Ethem Alpaydin, Bogazici University  
+- Ethem Alpaydin, Ozyegin University  
 - Anima Anandkumar, Caltech & NVIDIA  
 - Benjamin Aubin, ENS  
 - Aristide Baratin, MILA  
