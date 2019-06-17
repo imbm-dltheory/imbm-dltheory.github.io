@@ -24,9 +24,15 @@ Topics will include:
 - Giulio Biroli, ENS
 - Matthieu Wyart, EPFL  
 
+**Local Organization Support:**  
+- Burcin Unlu, Bogazici University
+
 **Commute to the venue:**  
 The subway station next to the campus is [Bogazici Universitesi Istasyonu](https://goo.gl/maps/VrC42pG9vi7u2vpW9). It is the last stop on line M6. Take line M2 (goes through Taksim) and transfer at the station called **Levent** (you can't miss it!).
 
+Commute to Bogazici University South Campus  
 ![commute](map1.jpg)
+Closer look at the South Campus  
 ![campus](map2.jpg)
+Zooming in on IMBM  
 ![venue](map3.jpg)
