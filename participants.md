@@ -40,7 +40,8 @@ _List of participants (including organizers):_
 - \*Roman Novak, Google   
 - Vardan Papyan, Stanford  
 - Dan Roberts, Diffeo Labs    
-- &dagger;Levent Sagun, EPFL  
+- &dagger;Levent Sagun, EPFL   
+- Stefano Sarao, CEA   
 - Andrew Saxe, University of Oxford  
 - David Schwab, CUNY  
 - Berfin Simsek, EPFL  
