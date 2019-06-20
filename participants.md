@@ -27,6 +27,7 @@ _List of participants (including organizers):_
 - Surya Ganguli, Stanford   
 - \*Caglar Gulcehre, DeepMind  
 - Mert Gurbuzbalaban, Rutgers Business School  
+- Sungmin Hwang, LPTMS  
 - Arthur Jacot, EPFL  
 - Mehmet Kiral, Sophia University  
 - Florent Krzakala, ENS  
@@ -39,7 +40,8 @@ _List of participants (including organizers):_
 - \*Mihai Nica, University of Toronto  
 - \*Roman Novak, Google   
 - Vardan Papyan, Stanford  
-- Dan Roberts, Diffeo Labs    
+- Dan Roberts, Diffeo Labs  
+- Miguel Ruiz Garcia, University of Pennsylvania  
 - &dagger;Levent Sagun, EPFL   
 - Stefano Sarao, CEA   
 - Andrew Saxe, University of Oxford  
