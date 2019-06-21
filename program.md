@@ -6,7 +6,7 @@ permalink: /program/
 
 The workshop will start with a broad audience event on Monday, July 29 on the campus of Bogazici University. From Tuesday until Friday, invited participants will continue with the talks and discussions at IMBM. We will have a group dinner on Thursday, August 1. IMBM is reserved from July 26 until August 3 for informal group discussions. We will also arrange several other social events.   
 
-***Sunday, July 28:*** Social day, a guided visit at [Pera Museum](https://www.peramuseum.org) in Taksim.
+***Sunday, July 28:*** [Social day](/social_day/)
 
 ***Monday, July 29:*** Lectures, Tutorials, and Keynote (open to all students and faculty)   
 
