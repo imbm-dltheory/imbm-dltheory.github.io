@@ -4,7 +4,7 @@ title: Participants
 permalink: /participants/
 ---
 
-_List of participants (including organizers):_   
+_List of workshop participants (including organizers):_   
 
 - Ethem Alpaydin, Ozyegin University  
 - Anima Anandkumar, Caltech & NVIDIA  
@@ -50,7 +50,6 @@ _List of participants (including organizers):_
 - \*Sam Smith, DeepMind  
 - Stefano Spigler, EPFL  
 - Eric Vanden-Eijnden, NYU  
-- \*Soledad Villar, NYU  
 - &dagger;Matthieu Wyart, EPFL  
 - Sho Yaida, Facebook AI  
 - Lenka Zdeborova, CEA  

@@ -27,6 +27,7 @@ minima:
   social_links:
     github:  imbm-dltheory
 
+# github: [metadata]
 markdown: kramdown
 remote_theme: jekyll/minima
 
@@ -34,7 +35,8 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
-  - about.md
-  - program.md
-  - participants.md
-  - contact.md
+  # - about.md
+  # - program.md
+  # - participants.md
+  - sponsors.md
+  - code-of-conduct.md
