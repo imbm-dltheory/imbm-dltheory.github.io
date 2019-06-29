@@ -11,13 +11,35 @@ permalink: /workshop/
 <details>
     <summary>
         <b>
-            Abstract & Topics
+            Program
         </b>
     </summary>
-    <p markdown="1">
-        __Abstract:__ During the past few years, differentiable programming as a paradigm of deep learning provided cutting edge applications of machine learning in large scale problems in wide areas covering vision, speech, translation, and various autonomous machines. However, the success rate of working models is much faster than the scientific progress on understanding the working principles of such systems. More recently, theoretical developments shed some light on the inner workings of toy models on simple tasks, yet the community is still missing theoretical results that have strong predictive power on what to expect from large scale models on complex tasks and how to design them to improve their performance. In an attempt to move towards deeper understanding, we aim to bring together a group of researchers interested in the theoretical understanding of deep learning. The workshop is devoted to reviewing the most recent literature to bring everyone at the same level in terms of our current understanding, further, we will discuss theoretical challenges and propose ways to move forward. We will also devote one day of the workshop to interact with the local machine learning community that will include an opportunity for interested advanced students to introduce themselves and we will have a public lecture covering current trends in machine learning.  
+    <p markdown="1">   
+        The workshop will start with a broad audience satellite event on Monday, July 29 on the campus of Bogazici University. From Tuesday until Friday, invited participants will continue with the seminars and discussions at IMBM. Core workshop participants will have a social day on Sunday, July 28. It will involve a guided visit at [Pera Museum](https://www.peramuseum.org) in Taksim, and perhaps a walking tour in the city beforehand. They will also have a group dinner on Thursday, August 1. IMBM is reserved from July 26 until August 3 for informal group discussions.  
+
     </p>
     <p markdown="1">
+
+        ***Tuesday, July 30 - Friday, August 2:*** Core workshop, talks by participants, discussions and brainstorming sessions. The full schedule will be announced later. We will not be able to record the talks but we will post the slides here.    
+
+    </p>
+</details>
+
+
+<details>
+    <summary>
+        <b>
+            About
+        </b>
+    </summary>
+    <p markdown="1">  
+
+        __Abstract:__ During the past few years, differentiable programming as a paradigm of deep learning provided cutting edge applications of machine learning in large scale problems in wide areas covering vision, speech, translation, and various autonomous machines. However, the success rate of working models is much faster than the scientific progress on understanding the working principles of such systems. More recently, theoretical developments shed some light on the inner workings of toy models on simple tasks, yet the community is still missing theoretical results that have strong predictive power on what to expect from large scale models on complex tasks and how to design them to improve their performance. In an attempt to move towards deeper understanding, we aim to bring together a group of researchers interested in the theoretical understanding of deep learning. The workshop is devoted to reviewing the most recent literature to bring everyone at the same level in terms of our current understanding, further, we will discuss theoretical challenges and propose ways to move forward. We will also devote one day of the workshop to interact with the local machine learning community that will include an opportunity for interested advanced students to introduce themselves and we will have a public lecture covering current trends in machine learning.  
+
+    </p>
+    <p markdown="1">
+
+
         __Topics:__
         - Toy models that exhibit characteristic features of large scale systems  
         - Scaling laws of neural networks with their degrees of freedom  
@@ -33,10 +55,11 @@ permalink: /workshop/
 <details>
     <summary>
         <b markdown="1">
-            List of workshop participants
+            Participants
         </b>
     </summary>
-    <p markdown="1">
+    <p markdown="1">  
+
         - Ethem Alpaydin, Ozyegin University  
         - Anima Anandkumar, Caltech & NVIDIA  
         - Benjamin Aubin, ENS  
@@ -85,6 +108,7 @@ permalink: /workshop/
         - Sho Yaida, Facebook AI  
         - Lenka Zdeborova, CEA  
      (&dagger;: Organizers, \*: To be confirmed)
+
     </p>
 </details>
 
@@ -93,10 +117,11 @@ permalink: /workshop/
 <details>
     <summary>
         <b markdown="1">
-            Commute to the venue
+            Commute
         </b>
     </summary>
-    <p markdown="1">
+    <p markdown="1">  
+
         The subway station next to the campus is [Bogazici Universitesi Istasyonu](https://goo.gl/maps/VrC42pG9vi7u2vpW9). It is the last stop on line M6. Take line M2 (goes through Taksim) and transfer at the station called **Levent** (you can't miss it!).
 
         Commute to Bogazici University South Campus  
