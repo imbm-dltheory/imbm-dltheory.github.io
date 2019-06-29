@@ -10,7 +10,7 @@ permalink: /sponsors/
 
 ![simons](/assets/images/simons_.png)   
 ![fb](/assets/images/fb.png)    
-![dm](/assets/images/DeepMind)  
+![dm](/assets/images/DeepMind.png)  
 
 <!-- <p float="left">
   <img src="/assets/images/simons_.png" width="250" />
