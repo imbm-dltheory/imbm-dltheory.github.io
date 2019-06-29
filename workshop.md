@@ -4,27 +4,29 @@ title: Workshop
 permalink: /workshop/
 ---
 
-**Workshop on Theoretical Advances in Deep Learning** will take place at the Istanbul Center for Mathematical Sciences ([IMBM](http://www.imbm.org.tr)). The venue is located inside the [Bogazici University](http://www.boun.edu.tr/en_US/Content/About_BU/About_BU) main campus.  
+_Workshop on Theoretical Advances in Deep Learning_ will take place at the Istanbul Center for Mathematical Sciences. The venue is located inside the [Bogazici University](http://www.boun.edu.tr/en_US/Content/About_BU/About_BU) main campus.   
 
-**Dates:** Tuesday, July 30 - Friday, August 2, 2019   
+**Dates**  
+Tuesday, July 30 - Friday, August 2, 2019   
 
-<details>
-    <summary>
-        <b>
-            Program
-        </b>
-    </summary>
-    <p markdown="1">   
-        The workshop will start with a broad audience satellite event on Monday, July 29 on the campus of Bogazici University. From Tuesday until Friday, invited participants will continue with the seminars and discussions at IMBM. Core workshop participants will have a social day on Sunday, July 28. It will involve a guided visit at [Pera Museum](https://www.peramuseum.org) in Taksim, and perhaps a walking tour in the city beforehand. They will also have a group dinner on Thursday, August 1. IMBM is reserved from July 26 until August 3 for informal group discussions.  
+**Location**  
+Istanbul Center for Mathematical Sciences - [(IMBM)](http://www.imbm.org.tr)  
 
-    </p>
-    <p markdown="1">
+**Program**  
 
-        ***Tuesday, July 30 - Friday, August 2:*** Core workshop, talks by participants, discussions and brainstorming sessions. The full schedule will be announced later. We will not be able to record the talks but we will post the slides here.    
+| Time        |    Event  |
+|----------------|:-----------------------|
+| 9:00-10:30     | Session 1 |
+| 10:30-11:00    | Coffee Break |
+| 11:00-12:00    | Session 2 |
+| 12:00-13:30    | Lunch Break |
+| 13:30-15:00    | Session 3 |
+| 15:00-15:30    | Coffee Break |
+| 15:30-16:30    | Session 4 |
 
-    </p>
-</details>
+Each session include 30 or 45 minute talks. If we have space, we will schedule discussion and brainstorming sessions on Friday. However, everyone is welcome to use the venue for meetings before or after the scheduled talks. The full schedule will be announced later. Also, we will not be able to record the talks but we will post the slides here.    
 
+For further details, please expand the arrows below.  
 
 <details>
     <summary>
@@ -37,17 +39,17 @@ permalink: /workshop/
         __Abstract:__ During the past few years, differentiable programming as a paradigm of deep learning provided cutting edge applications of machine learning in large scale problems in wide areas covering vision, speech, translation, and various autonomous machines. However, the success rate of working models is much faster than the scientific progress on understanding the working principles of such systems. More recently, theoretical developments shed some light on the inner workings of toy models on simple tasks, yet the community is still missing theoretical results that have strong predictive power on what to expect from large scale models on complex tasks and how to design them to improve their performance. In an attempt to move towards deeper understanding, we aim to bring together a group of researchers interested in the theoretical understanding of deep learning. The workshop is devoted to reviewing the most recent literature to bring everyone at the same level in terms of our current understanding, further, we will discuss theoretical challenges and propose ways to move forward. We will also devote one day of the workshop to interact with the local machine learning community that will include an opportunity for interested advanced students to introduce themselves and we will have a public lecture covering current trends in machine learning.  
 
     </p>
-    <p markdown="1">
-
-
-        __Topics:__
-        - Toy models that exhibit characteristic features of large scale systems  
-        - Scaling laws of neural networks with their degrees of freedom  
-        - Algorithmic effects and regularization in training neural networks  
-        - The role of the structure in data and teacher-student networks  
-        - Limiting behavior of simple models  
-        - Statistical physics approach to neural networks implications and its limits  
-        - The role of priors on the performance of models 
+    <p>
+        <p><strong>Topics:</strong></p>
+        <ul>
+        <li>Toy models that exhibit characteristic features of large scale systems  </li>
+        <li>Scaling laws of neural networks with their degrees of freedom  </li>
+        <li>Algorithmic effects and regularization in training neural networks  </li>
+        <li>The role of the structure in data and teacher-student networks  </li>
+        <li>Limiting behavior of simple models  </li>
+        <li>Statistical physics approach to neural networks implications and its limits  </li> 
+        <li>The role of priors on the performance of models </li>
+        </ul>
     </p>
 </details>
 
@@ -58,57 +60,103 @@ permalink: /workshop/
             Participants
         </b>
     </summary>
-    <p markdown="1">  
+    <p>  
+    <ul>
+        <li>Ethem Alpaydin, Ozyegin University  </li>
 
-        - Ethem Alpaydin, Ozyegin University  
-        - Anima Anandkumar, Caltech & NVIDIA  
-        - Benjamin Aubin, ENS  
-        - Aristide Baratin, MILA  
-        - Jean Barbier, ICTP  
-        - Ishmael Belghazi, MILA & Facebook AI    
-        - David Belius, University of Basel  
-        - \*Gerard Ben Arous, NYU  
-        - &dagger;Giulio Biroli, ENS  
-        - Chiara Cammarota, King's College London  
-        - Stephane d'Ascoli, ENS  
-        - \*Ethan Dyer, Google  
-        - Alp Eden, Bogazici University (retired)  
-        - Armin Eftekhari, EPFL  
-        - Utku Evci, Google  
-        - Orhan Firat, Google   
-        - Silvio Franz, Universite Paris-Sud  
-        - Marylou Gabrie, ENS  
-        - Surya Ganguli, Stanford   
-        - \*Caglar Gulcehre, DeepMind  
-        - Mert Gurbuzbalaban, Rutgers Business School  
-        - Sungmin Hwang, LPTMS  
-        - Arthur Jacot, EPFL  
-        - Mehmet Kiral, Sophia University  
-        - Florent Krzakala, ENS  
-        - \*Simon Lacoste-Julien, MILA  
-        - \*Jaehoon Lee, Google Brain  
-        - \*David Lopez-Paz, Facebook AI  
-        - \*Ioannis Mitliagkas, MILA  
-        - Brady Neal, MILA  
-        - Behnam Neyshabur, NYU  
-        - \*Mihai Nica, University of Toronto  
-        - \*Roman Novak, Google   
-        - Vardan Papyan, Stanford  
-        - Dan Roberts, Diffeo Labs  
-        - Miguel Ruiz Garcia, University of Pennsylvania  
-        - &dagger;Levent Sagun, EPFL   
-        - Stefano Sarao, CEA   
-        - Andrew Saxe, University of Oxford  
-        - David Schwab, CUNY  
-        - Berfin Simsek, EPFL  
-        - \*Sam Smith, DeepMind  
-        - Stefano Spigler, EPFL  
-        - Eric Vanden-Eijnden, NYU  
-        - &dagger;Matthieu Wyart, EPFL  
-        - Sho Yaida, Facebook AI  
-        - Lenka Zdeborova, CEA  
-     (&dagger;: Organizers, \*: To be confirmed)
+        <li>Anima Anandkumar, Caltech &amp; NVIDIA  </li>
 
+        <li>Benjamin Aubin, ENS  </li>
+
+        <li>Aristide Baratin, MILA  </li>
+
+        <li>Jean Barbier, ICTP  </li>
+
+        <li>Ishmael Belghazi, MILA &amp; Facebook AI    </li>
+
+        <li>David Belius, University of Basel  </li>
+
+        <li>*Gerard Ben Arous, NYU  </li>
+
+        <li>&dagger;Giulio Biroli, ENS  </li>
+
+        <li>Chiara Cammarota, King's College London  </li>
+
+        <li>Stephane d'Ascoli, ENS  </li>
+
+        <li>*Ethan Dyer, Google  </li>
+
+        <li>Alp Eden, Bogazici University (retired)  </li>
+
+        <li>Armin Eftekhari, EPFL  </li>
+
+        <li>Utku Evci, Google  </li>
+
+        <li>Orhan Firat, Google   </li>
+
+        <li>Silvio Franz, Universite Paris-Sud  </li>
+
+        <li>Marylou Gabrie, ENS  </li>
+
+        <li>Surya Ganguli, Stanford   </li>
+
+        <li>*Caglar Gulcehre, DeepMind  </li>
+
+        <li>Mert Gurbuzbalaban, Rutgers Business School  </li>
+
+        <li>Sungmin Hwang, LPTMS  </li>
+
+        <li>Arthur Jacot, EPFL  </li>
+
+        <li>Mehmet Kiral, Sophia University  </li>
+
+        <li>Florent Krzakala, ENS  </li>
+
+        <li>*Simon Lacoste-Julien, MILA  </li>
+
+        <li>*Jaehoon Lee, Google Brain  </li>
+
+        <li>*David Lopez-Paz, Facebook AI  </li>
+
+        <li>*Ioannis Mitliagkas, MILA  </li>
+
+        <li>Brady Neal, MILA  </li>
+
+        <li>Behnam Neyshabur, NYU  </li>
+
+        <li>*Mihai Nica, University of Toronto  </li>
+
+        <li>*Roman Novak, Google   </li>
+
+        <li>Vardan Papyan, Stanford  </li>
+
+        <li>Dan Roberts, Diffeo Labs  </li>
+
+        <li>Miguel Ruiz Garcia, University of Pennsylvania  </li>
+
+        <li>&dagger;Levent Sagun, EPFL   </li>
+
+        <li>Stefano Sarao, CEA   </li>
+
+        <li>Andrew Saxe, University of Oxford  </li>
+
+        <li>David Schwab, CUNY  </li>
+
+        <li>Berfin Simsek, EPFL  </li>
+
+        <li>*Sam Smith, DeepMind  </li>
+
+        <li>Stefano Spigler, EPFL  </li>
+
+        <li>Eric Vanden-Eijnden, NYU  </li>
+
+        <li>&dagger;Matthieu Wyart, EPFL  </li>
+
+        <li>Sho Yaida, Facebook AI  </li>
+
+        <li>Lenka Zdeborova, CEA <br/>
+        &dagger;: Organizers, *: To be confirmed</li>
+    </ul>
     </p>
 </details>
 

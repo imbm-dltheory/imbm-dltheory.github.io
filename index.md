@@ -22,19 +22,26 @@ title:
     </tbody>
 </table>
 
-**Monday, July 29: Open Day on Deep Learning** is a satellite event taking place on  at the Demir Demirgil Theater Hall at the [Bogazici University](http://www.boun.edu.tr/en_US/Content/About_BU/About_BU) south campus. The satellite event is open to public, registration is necessary but it doesn't guarantee seats as the space is limited and access will be on a first come first served basis. The schedule will include introductory lectures, tutorials, and advanced seminars. Follow the [**Open Day**](/open-day/) link for further information.
+__Open Day__    
+_Monday, July 29, 2019:_ Open Day on Deep Learning will take place as a satellite event of the Workshop at Demir Demirgil Theater Hall located in the Bogazici University South Campus. The schedule consists of introductory lectures, tutorials, and advanced seminars. Please register through the link above.
 
-**Tuesday, July 20 - Friday, August 2: Workshop on Theoretical Advances in Deep Learning** will take place at the Istanbul Center for Mathematical Sciences ([IMBM](http://www.imbm.org.tr)). The venue is located inside the [Bogazici University](http://www.boun.edu.tr/en_US/Content/About_BU/About_BU) south campus. Due to the space constraints the event is by invitation only. Please follow the [**Workshop**](/workshop/) link for further information.
+**Workshop**    
+_Tuesday, July 20, 2019 - Friday, August 2, 2019:_ Workshop on Theoretical Advances in Deep Learning will take place at Istanbul Center for Mathematical Sciences. The venue is located inside Bogazici University South Campus. Due to the space constraints the event is by invitation only.
 
-**Organizers:** 
+**Organizers** 
 - Levent Sagun, EPFL
 - Giulio Biroli, ENS
 - Matthieu Wyart, EPFL  
 
-**Local Organization Support:**  
+**Local Organization Support**  
 - Burcin Unlu, Bogazici University
+<!-- - Burçin Ünlü, Bogazici University -->
 
-**Aerial view of the campus:**  
+**Getting there**  
+The easiest way to find the venue is to arrive at the Bogazici University Metro Station and walk down to the South Campus - [[Google Maps]](https://goo.gl/maps/ZQLEFxjGaCWjDg3e9)  
+
+**Aerial view of the campus**   
+
 ![IMBM](/assets/images/Bogazici_Aerial_View.jpg)
 
 **Workshop on Theoretical Advances in Deep Learning at IMBM**

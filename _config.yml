@@ -13,11 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Theory of DL at IMBM
-fullname: Workshop on Theoretical Advances in Deep Learning at IMBM
+title: Theoretical Advances in Deep Learning 
+fullname: Workshop on Theoretical Advances in Deep Learning at IMBM, July-August, 2019, Istanbul
 email: imbm.dltheory@gmail.com
-# description: >- # this means to ignore newlines until "baseurl:"
-#  Workshop on Theoretical Advances in Deep Learning
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -27,7 +26,6 @@ minima:
   social_links:
     github:  imbm-dltheory
 
-# github: [metadata]
 markdown: kramdown
 remote_theme: jekyll/minima
 
@@ -35,8 +33,5 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
-  # - about.md
-  # - program.md
-  # - participants.md
   - sponsors.md
   - code-of-conduct.md
