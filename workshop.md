@@ -4,29 +4,13 @@ title: Workshop
 permalink: /workshop/
 ---
 
-_Workshop on Theoretical Advances in Deep Learning_ will take place at the Istanbul Center for Mathematical Sciences. The venue is located inside the [Bogazici University](http://www.boun.edu.tr/en_US/Content/About_BU/About_BU) main campus.   
+_Workshop on Theoretical Advances in Deep Learning_ will take place at the Istanbul Center for Mathematical Sciences. The venue is located inside the Bogazici University main campus.   
 
 **Dates**  
 Tuesday, July 30 - Friday, August 2, 2019   
 
 **Location**  
-Istanbul Center for Mathematical Sciences - [(IMBM)](http://www.imbm.org.tr)  
-
-**Program**  
-
-| Time        |    Event  |
-|----------------|:-----------------------|
-| 9:00-10:30     | Session 1 |
-| 10:30-11:00    | Coffee Break |
-| 11:00-12:00    | Session 2 |
-| 12:00-13:30    | Lunch Break |
-| 13:30-15:00    | Session 3 |
-| 15:00-15:30    | Coffee Break |
-| 15:30-16:30    | Session 4 |
-
-Each session include 30 or 45 minute talks. If we have space, we will schedule discussion and brainstorming sessions on Friday. However, everyone is welcome to use the venue for meetings before or after the scheduled talks. The full schedule will be announced later. Also, we will not be able to record the talks but we will post the slides here.    
-
-For further details, please expand the arrows below.  
+Istanbul Center for Mathematical Sciences
 
 <details>
     <summary>
@@ -50,6 +34,26 @@ For further details, please expand the arrows below.
         <li>Statistical physics approach to neural networks implications and its limits  </li> 
         <li>The role of priors on the performance of models </li>
         </ul>
+    </p>
+</details>
+
+<details>
+    <summary>
+        <b markdown="1">
+            Commute
+        </b>
+    </summary>
+    <p markdown="1">  
+
+        The subway station next to the campus is [Bogazici Universitesi Istasyonu](https://goo.gl/maps/VrC42pG9vi7u2vpW9). It is the last stop on line M6. Take line M2 (goes through Taksim) and transfer at the station called **Levent** (you can't miss it!).
+
+        Commute to Bogazici University South Campus  
+        ![commute](/assets/images/map1.jpg)
+        Closer look at the South Campus  
+        ![campus](/assets/images/map2.jpg)
+        Zooming in on IMBM  
+        ![venue](/assets/images/map3.jpg)
+       
     </p>
 </details>
 
@@ -165,22 +169,49 @@ For further details, please expand the arrows below.
 <details>
     <summary>
         <b markdown="1">
-            Commute
+            Program
         </b>
     </summary>
-    <p markdown="1">  
-
-        The subway station next to the campus is [Bogazici Universitesi Istasyonu](https://goo.gl/maps/VrC42pG9vi7u2vpW9). It is the last stop on line M6. Take line M2 (goes through Taksim) and transfer at the station called **Levent** (you can't miss it!).
-
-        Commute to Bogazici University South Campus  
-        ![commute](/assets/images/map1.jpg)
-        Closer look at the South Campus  
-        ![campus](/assets/images/map2.jpg)
-        Zooming in on IMBM  
-        ![venue](/assets/images/map3.jpg)
-       
+    <p>  
+        <table>
+            <thead>
+                <tr>
+                    <th>Time</th>
+                    <th style="text-align:left">Event</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>9:00-10:30</td>
+                    <td style="text-align:left">Session 1</td>
+                </tr>
+                <tr>
+                    <td>10:30-11:00</td>
+                    <td style="text-align:left">Coffee Break</td>
+                </tr>
+                <tr>
+                    <td>11:00-12:00</td>
+                    <td style="text-align:left">Session 2</td>
+                </tr>
+                <tr>
+                    <td>12:00-13:30</td>
+                    <td style="text-align:left">Lunch Break</td>
+                </tr>
+                <tr>
+                    <td>13:30-15:00</td>
+                    <td style="text-align:left">Session 3</td>
+                </tr>
+                <tr>
+                    <td>15:00-15:30</td>
+                    <td style="text-align:left">Coffee Break</td>
+                </tr>
+                <tr>
+                    <td>15:30-16:30</td>
+                    <td style="text-align:left">Session 4</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Each session include 30 or 45 minute talks. If we have space, we will schedule discussion and brainstorming sessions on Friday. However, everyone is welcome to use the venue for meetings before or after the scheduled talks. The full schedule will be announced later. Also, we will not be able to record the talks but we will post the slides here.  </p>
     </p>
-</details>
-
-
+</details>  
 

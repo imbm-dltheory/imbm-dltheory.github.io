@@ -7,10 +7,10 @@ title:
     <thead>
         <tr>
             <th align="center">
-                <a href="open-day"><h1>Open Day</h1></a>
+                <a href="open-day"><h1><u>Open Day</u></h1></a>
             </th>
             <th align="center">
-                <a href="workshop"><h1>Workshop</h1></a>
+                <a href="workshop"><h1><u>Workshop</u></h1></a>
             </th>
         </tr>
     </thead>
@@ -22,11 +22,14 @@ title:
     </tbody>
 </table>
 
-__Open Day__    
-_Monday, July 29, 2019:_ Open Day on Deep Learning will take place as a satellite event of the Workshop at Demir Demirgil Theater Hall located in the Bogazici University South Campus. The schedule consists of introductory lectures, tutorials, and advanced seminars. Please register through the link above.
+__Monday, July 29, 2019__    
+__Open Day on Deep Learning__ will take place as a satellite event of the Workshop. The venue is Demir Demirgil Theater Hall located in the [Bogazici University](http://www.boun.edu.tr/en_US/Content/About_BU/About_BU) South Campus (max. capacity ~170). Open Day program consists of introductory lectures, tutorials, and advanced seminars. [[Google Maps]](https://goo.gl/maps/HqikG4a3ENx77tWW8)  
 
-**Workshop**    
-_Tuesday, July 20, 2019 - Friday, August 2, 2019:_ Workshop on Theoretical Advances in Deep Learning will take place at Istanbul Center for Mathematical Sciences. The venue is located inside Bogazici University South Campus. Due to the space constraints the event is by invitation only.
+__Tuesday, July 30, 2019 - Friday, August 2, 2019__  
+__Workshop on Theoretical Advances in Deep Learning__ will take place at Istanbul Center for Mathematical Sciences [(IMBM)](http://www.imbm.org.tr). The venue is located inside Bogazici University South Campus. Due to space constraints participation is by invitation only. 
+
+**Getting there**   
+Both events will be on the same campus. The easiest way to find either venue is to arrive at Bogazici University Metro Station and walk down to the South Campus. [[Google Maps]](https://goo.gl/maps/ZQLEFxjGaCWjDg3e9)
 
 **Organizers** 
 - Levent Sagun, EPFL
@@ -37,12 +40,9 @@ _Tuesday, July 20, 2019 - Friday, August 2, 2019:_ Workshop on Theoretical Advan
 - Burcin Unlu, Bogazici University
 <!-- - Burçin Ünlü, Bogazici University -->
 
-**Getting there**  
-The easiest way to find the venue is to arrive at the Bogazici University Metro Station and walk down to the South Campus - [[Google Maps]](https://goo.gl/maps/ZQLEFxjGaCWjDg3e9)  
-
 **Aerial view of the campus**   
 
-![IMBM](/assets/images/Bogazici_Aerial_View.jpg)
+![IMBM](/assets/images/Bogazici_Aerial_View-marked.jpg)
 
 **Workshop on Theoretical Advances in Deep Learning at IMBM**
 

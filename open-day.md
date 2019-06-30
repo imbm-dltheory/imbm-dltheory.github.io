@@ -10,62 +10,75 @@ The Open Day on Deep Learning includes lectures, tutorials, and seminars. The ev
 Monday, July 29, 2019   
 
 **Location**  
-Demir Demirgil Theater Hall, Bogazici University South Campus - [[Google Maps]](https://goo.gl/maps/mtPtDHiYC8B9JEyQ8)
+Demir Demirgil Theater Hall, Bogazici University South Campus - [[Google Maps]](https://goo.gl/maps/HqikG4a3ENx77tWW8)
 
-**Program**    
-
-<table class="table table-striped table-bordered">
-    <thead>
-        <tr>
-            <th width="18%">Time</th>
-            <th width="82%" style="text-align:left">Event</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>9:00-10:15</td>
-            <td style="text-align:left">Crash Course: Mathematics Toolbox by Salih Durhan, D4C</td>
+<details>
+    <summary>
+        <b>
+            Program  
+        </b>
+    </summary>
+        <br>
+        <table class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <th width="18%">Time</th>
+                <th width="82%" style="text-align:left">Event</th>
             </tr>
-        <tr>
-        <td>10:30-11:45</td>
-        <td style="text-align:left">Crash Course: Physics Toolbox by Chiara Cammarota, King’s College London</td>
-        </tr>
-        <tr>
-            <td>12:30-13:15</td>
-            <td style="text-align:left">History of Computing and AI by Ksenia Tatarchenko, University of Geneva</td>
-        </tr>
-        <tr>
-            <td>13:45-14:45</td>
-            <td style="text-align:left">Tutorial: Structure and Geometry of NNs by Caglar Gulcehre, DeepMind</td>
-        </tr>
-        <tr>
-            <td>15:00-16:00</td>
-            <td style="text-align:left">Tutorial: Neural Architectures for Text by Orhan Firat, Google Research</td>
-        </tr>
-        <tr>
-            <td>16:30-17:30</td>
-            <td style="text-align:left">Keynote Seminar: Tackling Data Scarcity and Bias in Deep Learning by Anima Anandkumar, Caltech &amp; NVIDIA</td>
-        </tr>
-    </tbody>
-</table>
-<!-- 
-| Time        |    Event  |
-|----------------|:-----------------------|
-| 9:00-10:15     | Crash Course: Mathematics Toolbox by Salih Durhan, D4C |
-| 10:30-11:45    | Crash Course: Physics Toolbox by Chiara Cammarota, King's College London |
-| 12:30-13:15    | History of Computing and AI by Ksenia Tatarchenko, University of Geneva |
-| 13:45-14:45    | Tutorial: Structure and Geometry of NNs by Caglar Gulcehre, DeepMind |
-| 15:00-16:00    | Tutorial: Neural Architectures for Text by Orhan Firat, Google Research |
-| 16:30-17:30    | Keynote Seminar: Tackling Data Scarcity and Bias in Deep Learning by Anima Anandkumar, Caltech & NVIDIA | -->
+        </thead>
+        <tbody>
+            <tr>
+                <td>9:00-10:15</td>
+                <td style="text-align:left">Crash Course: Mathematics Toolbox by Salih Durhan, D4C</td>
+                </tr>
+            <tr>
+            <td>10:30-11:45</td>
+            <td style="text-align:left">Crash Course: Physics Toolbox by Chiara Cammarota, King’s College London</td>
+            </tr>
+            <tr>
+                <td>12:45-13:30</td>
+                <td style="text-align:left">History of Computing and AI by Ksenia Tatarchenko, University of Geneva</td>
+            </tr>
+            <tr>
+                <td>13:45-14:45</td>
+                <td style="text-align:left">Tutorial: Structure and Geometry of NNs by Caglar Gulcehre, DeepMind</td>
+            </tr>
+            <tr>
+                <td>15:00-16:00</td>
+                <td style="text-align:left">Tutorial: Neural Architectures for Text by Orhan Firat, Google Research</td>
+            </tr>
+            <tr>
+                <td>16:30-17:30</td>
+                <td style="text-align:left">Keynote Seminar: Tackling Data Scarcity and Bias in Deep Learning by Anima Anandkumar, Caltech &amp; NVIDIA</td>
+            </tr>
+            <tr>
+                <td>17:30-18:30</td>
+                <td style="text-align:left"> Reception </td>
+            </tr>
+        </tbody>
+    </table>
 
-Crash courses are accessible to undergraduates and people who would like a basic refresher, they cover basic toolbox in mathematics and physics that are necessary building blocks for modern machine learning. The history of computing session will include a lengthy Q&A. Tutorials present an introduction but quickly will penetrate deeper into the subject and cover modern applications. The _Keynote Seminar_ will present cutting edge issues in Deep Learning today.  
- 
-<br/>
-<center markdown="1">  
-    <h1>
-        <a href="https://forms.gle/KFLNBTqrE4zfa92t9">Register Here</a>
-    </h1>
+    Crash courses are accessible to undergraduates and people who would like a basic refresher, they cover basic toolbox in mathematics and physics that are necessary building blocks for modern machine learning. History of computing session will include a Q&A. Tutorials present an introduction but they will quickly penetrate deeper into the subject and cover modern applications. The Keynote Seminar will present cutting edge issues in Deep Learning.     
+</details>
+
+<details>
+    <summary>
+        <b markdown="1">
+            Poster
+        </b>
+    </summary>
+    <p markdown="1">  
+        Poster/flier of the Open Day -  <a href="/assets/PDFs/poster-imbm.pdf">[Download PDF]</a> 
+        ![commute](/assets/images/poster-imbm.jp2)  
+    </p>
+</details>
+
+<br>
+
+<center> 
+    <form action="https://forms.gle/KFLNBTqrE4zfa92t9">
+    <button class="button" style="vertical-align:middle">
+        <span>Register Here</span>
+    </button>
+    </form>
 </center>  
-
-
-
