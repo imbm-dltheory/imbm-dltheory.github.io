@@ -52,7 +52,7 @@ Demir Demirgil Theater Hall, Bogazici University South Campus - [[Google Maps]](
                 <td style="text-align:left">Keynote Seminar: Tackling Data Scarcity and Bias in Deep Learning by Anima Anandkumar, Caltech &amp; NVIDIA</td>
             </tr>
             <tr>
-                <td>17:30-18:30</td>
+                <td>17:30-19:00</td>
                 <td style="text-align:left"> Reception </td>
             </tr>
         </tbody>
@@ -69,7 +69,7 @@ Demir Demirgil Theater Hall, Bogazici University South Campus - [[Google Maps]](
     </summary>
     <p markdown="1">  
         Poster/flier of the Open Day -  <a href="/assets/PDFs/poster-imbm.pdf">[Download PDF]</a> 
-        ![commute](/assets/images/poster-imbm.jp2)  
+        ![commute](/assets/images/poster-imbm.png)  
     </p>
 </details>
 
