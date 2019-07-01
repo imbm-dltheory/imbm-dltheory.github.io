@@ -68,8 +68,8 @@ Demir Demirgil Theater Hall, Bogazici University South Campus - [[Google Maps]](
         </b>
     </summary>
     <p markdown="1">  
-        Poster/flier of the Open Day (for printing make sure to choose A4 and select the option that fills the entire page) -  <a href="/assets/PDFs/poster-imbm.pdf">[Download PDF]</a> 
-        ![commute](/assets/images/poster-imbm.jpg)  
+        Poster/flier of the Open Day (for printing make sure to choose A4 and select the option that fills the entire page) -  <a href="/assets/PDFs/poster-openday.pdf">[Download PDF]</a> 
+        ![commute](/assets/images/poster-openday.jpg)  
     </p>
 </details>
 
