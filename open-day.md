@@ -28,31 +28,31 @@ Demir Demirgil Theater Hall, Bogazici University South Campus - [[Google Maps]](
         </thead>
         <tbody>
             <tr>
-                <td>9:00-10:15</td>
+                <td style="text-align:right">9:00-10:15</td>
                 <td style="text-align:left">Crash Course: Mathematics Toolbox by Salih Durhan, D4C</td>
                 </tr>
             <tr>
-            <td>10:30-11:45</td>
-            <td style="text-align:left">Crash Course: Physics Toolbox by Chiara Cammarota, King’s College London</td>
+                <td style="text-align:right">10:30-11:45</td>
+                <td style="text-align:left">Crash Course: Physics Toolbox by Chiara Cammarota, King’s College London</td>
             </tr>
             <tr>
-                <td>12:45-13:30</td>
+                <td style="text-align:right">12:45-13:30</td>
                 <td style="text-align:left">History of Computing and AI by Ksenia Tatarchenko, University of Geneva</td>
             </tr>
             <tr>
-                <td>13:45-14:45</td>
+                <td style="text-align:right">13:45-14:45</td>
                 <td style="text-align:left">Tutorial: Structure and Geometry of NNs by Caglar Gulcehre, DeepMind</td>
             </tr>
             <tr>
-                <td>15:00-16:00</td>
+                <td style="text-align:right">15:00-16:00</td>
                 <td style="text-align:left">Tutorial: Neural Architectures for Text by Orhan Firat, Google Research</td>
             </tr>
             <tr>
-                <td>16:30-17:30</td>
+                <td style="text-align:right">16:30-17:30</td>
                 <td style="text-align:left">Keynote Seminar: Tackling Data Scarcity and Bias in Deep Learning by Anima Anandkumar, Caltech &amp; NVIDIA</td>
             </tr>
             <tr>
-                <td>17:30-19:00</td>
+                <td style="text-align:right">17:30</td>
                 <td style="text-align:left"> Reception </td>
             </tr>
         </tbody>
@@ -68,8 +68,8 @@ Demir Demirgil Theater Hall, Bogazici University South Campus - [[Google Maps]](
         </b>
     </summary>
     <p markdown="1">  
-        Poster/flier of the Open Day -  <a href="/assets/PDFs/poster-imbm.pdf">[Download PDF]</a> 
-        ![commute](/assets/images/poster-imbm.png)  
+        Poster/flier of the Open Day (for printing make sure to choose A4 and select the option that fills the entire page) -  <a href="/assets/PDFs/poster-imbm.pdf">[Download PDF]</a> 
+        ![commute](/assets/images/poster-imbm.jpg)  
     </p>
 </details>
 
