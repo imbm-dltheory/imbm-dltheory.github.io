@@ -213,7 +213,7 @@ Istanbul Center for Mathematical Sciences
                 </tr>
             </tbody>
         </table>
-        <p>Each session include 30 or 45 minute talks. If we have space, we will schedule discussion and brainstorming sessions on Friday. However, everyone is welcome to use the venue for meetings before or after the scheduled talks. The full schedule will be announced later. Also, we will not be able to record the talks but we will post the slides here.  </p>
+        <p>Each session will include back-to-back 30-minute talks (25 + 5 for questions). During after hours and weekends, the venue will be available for informal discussions. The detailed schedule will be available soon.  </p>
     </p>
 </details>  
 
