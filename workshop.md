@@ -92,8 +92,6 @@ Istanbul Center for Mathematical Sciences
 
         <li>Alp Eden, Bogazici University (retired)  </li>
 
-        <li>Armin Eftekhari, EPFL  </li>
-
         <li>Utku Evci, Google  </li>
 
         <li>Orhan Firat, Google   </li>
@@ -108,6 +106,8 @@ Istanbul Center for Mathematical Sciences
 
         <li>Mert Gurbuzbalaban, Rutgers Business School  </li>
 
+        <li>Clement Hongler, EPFL  </li>
+
         <li>Sungmin Hwang, LPTMS  </li>
 
         <li>Arthur Jacot, EPFL  </li>
@@ -117,6 +117,8 @@ Istanbul Center for Mathematical Sciences
         <li>Florent Krzakala, ENS  </li>
 
         <li>*Simon Lacoste-Julien, MILA  </li>
+
+        <li>Fabian Latorre, EPFL  </li>
 
         <li>*Jaehoon Lee, Google Brain  </li>
 
