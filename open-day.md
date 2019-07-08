@@ -76,6 +76,10 @@ Demir Demirgil Theater Hall, Bogazici University South Campus - [[Google Maps]](
 <br>
 
 <center> 
+    The event has reached full capacity!
+</center>      
+
+<center> 
     <form action="https://forms.gle/KFLNBTqrE4zfa92t9">
     <button class="button" style="vertical-align:middle">
         <span>Register Here</span>
