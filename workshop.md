@@ -88,7 +88,7 @@ Istanbul Center for Mathematical Sciences
 
         <li>Stephane d'Ascoli, ENS  </li>
 
-        <li>*Ethan Dyer, Google  </li>
+        <li>Ethan Dyer, Google  </li>
 
         <li>Alp Eden, Bogazici University (retired)  </li>
 
@@ -120,11 +120,9 @@ Istanbul Center for Mathematical Sciences
 
         <li>Fabian Latorre, EPFL  </li>
 
-        <li>*Jaehoon Lee, Google Brain  </li>
-
         <li>*David Lopez-Paz, Facebook AI  </li>
 
-        <li>*Ioannis Mitliagkas, MILA  </li>
+        <li>Ioannis Mitliagkas, MILA  </li>
 
         <li>Brady Neal, MILA  </li>
 
