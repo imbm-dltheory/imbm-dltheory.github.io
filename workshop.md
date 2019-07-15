@@ -80,8 +80,6 @@ Istanbul Center for Mathematical Sciences
 
         <li>David Belius, University of Basel  </li>
 
-        <li>*Gerard Ben Arous, NYU  </li>
-
         <li>&dagger;Giulio Biroli, ENS  </li>
 
         <li>Chiara Cammarota, King's College London  </li>
@@ -126,9 +124,9 @@ Istanbul Center for Mathematical Sciences
 
         <li>Brady Neal, MILA  </li>
 
-        <li>Behnam Neyshabur, NYU  </li>
+        <li>*Behnam Neyshabur, NYU  </li>
 
-        <li>*Mihai Nica, University of Toronto  </li>
+        <li>Mihai Nica, University of Toronto  </li>
 
         <li>*Roman Novak, Google   </li>
 
@@ -148,7 +146,7 @@ Istanbul Center for Mathematical Sciences
 
         <li>Berfin Simsek, EPFL  </li>
 
-        <li>*Sam Smith, DeepMind  </li>
+        <li>Sam Smith, DeepMind  </li>
 
         <li>Stefano Spigler, EPFL  </li>
 
