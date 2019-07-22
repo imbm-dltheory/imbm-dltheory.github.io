@@ -100,7 +100,7 @@ Istanbul Center for Mathematical Sciences
 
         <li>Surya Ganguli, Stanford   </li>
 
-        <li>*Caglar Gulcehre, DeepMind  </li>
+        <li>Caglar Gulcehre, DeepMind  (over VC) </li>
 
         <li>Mert Gurbuzbalaban, Rutgers Business School  </li>
 
@@ -118,17 +118,13 @@ Istanbul Center for Mathematical Sciences
 
         <li>Fabian Latorre, EPFL  </li>
 
-        <li>*David Lopez-Paz, Facebook AI  </li>
-
         <li>Ioannis Mitliagkas, MILA  </li>
 
         <li>Brady Neal, MILA  </li>
 
-        <li>*Behnam Neyshabur, NYU  </li>
+        <li>Behnam Neyshabur, NYU  </li>
 
         <li>Mihai Nica, University of Toronto  </li>
-
-        <li>*Roman Novak, Google   </li>
 
         <li>Vardan Papyan, Stanford  </li>
 
