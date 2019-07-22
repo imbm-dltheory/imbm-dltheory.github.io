@@ -24,19 +24,19 @@ Demir Demirgil Theater Hall, Bogazici University South Campus - [[Google Maps]](
         </thead>
         <tbody>
                 <tr>
-                <td style="text-align:right">9:00-10:15</td>
+                <td style="text-align:right">9:00-10:00</td>
                 <td style="text-align:left">Keynote Seminar: Tackling Data Scarcity and Bias in Deep Learning by Anima Anandkumar, Caltech &amp; NVIDIA</td>
                 </tr>
                 <tr>
-                <td style="text-align:right">10:30-11:45</td>
+                <td style="text-align:right">10:15-11:15</td>
                 <td style="text-align:left">Tutorial I: Neural Architectures for Text: What does practice say about the theory? by Orhan Firat, Google</td>
                 </tr>
                 <tr>
-                <td style="text-align:right">12:45-13:30</td>
+                <td style="text-align:right">11:30-12:30</td>
                 <td style="text-align:left">Tutorial II: Structure and Geometry of NNs by Caglar Gulcehre, DeepMind (over VC) </td>
                 </tr>
                 <tr>
-                <td style="text-align:right">13:45-14:45</td>
+                <td style="text-align:right">12:30-13:30</td>
                 <td style="text-align:left"> Lunch & Reception </td>
                 </tr>
                 <tr>
