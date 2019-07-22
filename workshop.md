@@ -76,7 +76,7 @@ Istanbul Center for Mathematical Sciences
 
         <li>Jean Barbier, ICTP  </li>
 
-        <li>Ishmael Belghazi, MILA &amp; Facebook AI    </li>
+        <li>*Ishmael Belghazi, MILA &amp; Facebook AI    </li>
 
         <li>David Belius, University of Basel  </li>
 
@@ -99,6 +99,8 @@ Istanbul Center for Mathematical Sciences
         <li>Marylou Gabrie, ENS  </li>
 
         <li>Surya Ganguli, Stanford   </li>
+        
+        <li>*Mario Geiger, EPFL  </li>
 
         <li>Caglar Gulcehre, DeepMind  (over VC) </li>
 
