@@ -4,7 +4,7 @@ title: Open Day
 permalink: /open-day/
 ---
 
-The Open Day on Deep Learning includes lectures, tutorials, and seminars. The event is open to the public. Registration is necessary but it doesn't guarantee seats as the space is limited and access will be on a first come, first served basis. The event language is English.  
+The Open Day on Deep Learning includes lectures, tutorials, and seminars. The event is open to the public, but registration is necessary. The event language is English.  
 
 **Date**  
 Monday, July 29, 2019   
