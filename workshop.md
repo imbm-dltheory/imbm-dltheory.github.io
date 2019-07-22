@@ -74,8 +74,6 @@ Istanbul Center for Mathematical Sciences
 
         <li>Aristide Baratin, MILA  </li>
 
-        <li>Jean Barbier, ICTP  </li>
-
         <li>*Ishmael Belghazi, MILA &amp; Facebook AI    </li>
 
         <li>David Belius, University of Basel  </li>
