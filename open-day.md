@@ -37,7 +37,7 @@ Demir Demirgil Theater Hall, Bogazici University South Campus - [[Google Maps]](
             </tr>
             <tr>
                 <td style="text-align:right">12:45-13:30</td>
-                <td style="text-align:left">Tutorial II: Structure and Geometry of NNs by Caglar Gulcehre, DeepMind</td>
+                <td style="text-align:left">Tutorial II: Structure and Geometry of NNs by Caglar Gulcehre, DeepMind (over VC) </td>
             </tr>
             <tr>
                 <td style="text-align:right">13:45-14:45</td>
