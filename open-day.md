@@ -55,9 +55,7 @@ Demir Demirgil Theater Hall, Bogazici University South Campus - [[Google Maps]](
 </table>
 
 
-**Poster**   
-
-<a href="/assets/PDFs/poster-openday.pdf">[Download PDF]</a>   
+**Poster** <a href="/assets/PDFs/poster-openday.pdf">[Download PDF]</a>    
 
 ![commute](/assets/images/poster-openday.jpg)  
 
