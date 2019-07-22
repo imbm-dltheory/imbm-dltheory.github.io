@@ -25,8 +25,8 @@ title:
 __Open Day, Monday, July 29, 2019__   
 The day-long event will take place as a satellite meeting of the core workshop. The venue is Demir Demirgil Theater Hall located in the [Bogazici University](http://www.boun.edu.tr/en_US/Content/About_BU/About_BU) South Campus. Open Day program consists of introductory lectures, tutorials, and advanced seminars. [[Google Maps]](https://goo.gl/maps/HqikG4a3ENx77tWW8)  
   
-__Workshop on Theoretical Advances in Deep Learning__  
-The workshop will take place at Istanbul Center for Mathematical Sciences [(IMBM)](http://www.imbm.org.tr). The venue is located inside Bogazici University South Campus.  
+__Workshop, Tuesday - Friday, July 29 - August 2, 2019__  
+The workshop will be a series of focus group research seminars on Theoretical Advances in Deep Learning. It will take place at Istanbul Center for Mathematical Sciences [(IMBM)](http://www.imbm.org.tr). The venue is located inside Bogazici University South Campus.  
 
 <center>
     <b> Both events are full! </b>
