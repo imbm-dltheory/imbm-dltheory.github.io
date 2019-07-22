@@ -108,6 +108,10 @@ Istanbul Center for Mathematical Sciences
 
         <li>Sungmin Hwang, LPTMS  </li>
 
+        <li>Melih Iseri, USC </li>  
+
+        <li>Duygu Islakoglu, Koc University  </li>
+
         <li>Arthur Jacot, EPFL  </li>
 
         <li>Mehmet Kiral, Sophia University  </li>
@@ -120,11 +124,15 @@ Istanbul Center for Mathematical Sciences
 
         <li>Ioannis Mitliagkas, MILA  </li>
 
+        <li>Muhittin Mungan, Uni Bonn  </li>
+
         <li>Brady Neal, MILA  </li>
 
         <li>Behnam Neyshabur, NYU  </li>
 
         <li>Mihai Nica, University of Toronto  </li>
+
+        <li>Ekin Ozman, Bogazici University  </li>
 
         <li>Vardan Papyan, Stanford  </li>
 
@@ -137,6 +145,8 @@ Istanbul Center for Mathematical Sciences
         <li>Stefano Sarao, CEA   </li>
 
         <li>Andrew Saxe, University of Oxford  </li>
+
+        <li>Berrenur Saylam, Bogazici University  </li>
 
         <li>David Schwab, CUNY  </li>
 
@@ -208,4 +218,3 @@ Istanbul Center for Mathematical Sciences
         <p>Each session will include back-to-back 30-minute talks (25 + 5 for questions). During after hours and weekends, the venue will be available for informal discussions. The detailed schedule will be available soon.  </p>
     </p>
 </details>  
-
