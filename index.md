@@ -29,7 +29,7 @@ __Workshop on Theoretical Advances in Deep Learning__
 The workshop will take place at Istanbul Center for Mathematical Sciences [(IMBM)](http://www.imbm.org.tr). The venue is located inside Bogazici University South Campus.  
 
 <center>
-    <b> Both events are full! <\b>
+    <b> Both events are full! </b>
 </center>
     
 **Getting there**   
