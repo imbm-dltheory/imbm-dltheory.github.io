@@ -12,13 +12,9 @@ Monday, July 29, 2019
 **Location**  
 Demir Demirgil Theater Hall, Bogazici University South Campus - [[Google Maps]](https://goo.gl/maps/HqikG4a3ENx77tWW8)
 
-<details>
-    <summary>
-        <b>
-            Program  
-        </b>
-    </summary>
-        <br>
+**Program**   
+
+<br>
         <table class="table table-striped table-bordered">
         <thead>
             <tr>
@@ -58,20 +54,12 @@ Demir Demirgil Theater Hall, Bogazici University South Campus - [[Google Maps]](
         </tbody>
     </table>
 
-    Crash courses are accessible to undergraduates and people who would like a basic refresher, they cover basic toolbox in mathematics and physics that are necessary building blocks for modern machine learning. History of computing session will include a Q&A. Tutorials present an introduction but they will quickly penetrate deeper into the subject and cover modern applications. The Keynote Seminar will present cutting edge issues in Deep Learning.     
-</details>
+**Poster**    
 
-<details>
-    <summary>
-        <b markdown="1">
-            Poster
-        </b>
-    </summary>
-    <p markdown="1">  
+<p markdown="1">  
         Poster/flier of the Open Day (for printing make sure to choose A4 and select the option that fills the entire page) -  <a href="/assets/PDFs/poster-openday.pdf">[Download PDF]</a> 
         ![commute](/assets/images/poster-openday.jpg)  
-    </p>
-</details>
+</p>
 
 <br>
 
