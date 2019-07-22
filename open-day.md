@@ -14,8 +14,7 @@ Demir Demirgil Theater Hall, Bogazici University South Campus - [[Google Maps]](
 
 **Program**   
 
-<br>
-        <table class="table table-striped table-bordered">
+<table class="table table-striped table-bordered">
         <thead>
             <tr>
                 <th width="18%">Time</th>
@@ -52,7 +51,7 @@ Demir Demirgil Theater Hall, Bogazici University South Campus - [[Google Maps]](
                 <td style="text-align:left">Crash Course: Physics Toolbox by Chiara Cammarota, King’s College London</td>
             </tr>
         </tbody>
-    </table>
+</table>
 
 **Poster**    
 
@@ -61,7 +60,6 @@ Demir Demirgil Theater Hall, Bogazici University South Campus - [[Google Maps]](
         ![commute](/assets/images/poster-openday.jpg)  
 </p>
 
-<br>
 
 <center> 
     The event has reached full capacity!
