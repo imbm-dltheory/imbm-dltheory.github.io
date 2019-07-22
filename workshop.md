@@ -118,8 +118,6 @@ Istanbul Center for Mathematical Sciences
 
         <li>Florent Krzakala, ENS  </li>
 
-        <li>*Simon Lacoste-Julien, MILA  </li>
-
         <li>Fabian Latorre, EPFL  </li>
 
         <li>Ioannis Mitliagkas, MILA  </li>
