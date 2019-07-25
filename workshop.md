@@ -218,11 +218,11 @@ Istanbul Center for Mathematical Sciences
 </details>  
 
 
-<table id="" class="display" style="width:100%">
+<table>
     <thead>
         <tr>
-            <th>Tuesday, July 30</th>
-            <th style="text-align:left">Talk</th>
+            <th>Time</th>
+            <th style="text-align:left">Tuesday, July 30</th>
         </tr>
     </thead>
     <tbody>
@@ -286,11 +286,11 @@ Istanbul Center for Mathematical Sciences
 </table>
 
 
-<table id="" class="display" style="width:100%">
+<table>
     <thead>
         <tr>
-            <th>Wednesday, July 31 </th>
-            <th style="text-align:left">Talk</th>
+            <th>Time</th>
+            <th style="text-align:left">Wednesday, July 31</th>
         </tr>
     </thead>
     <tbody>
