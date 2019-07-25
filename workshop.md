@@ -221,7 +221,7 @@ Istanbul Center for Mathematical Sciences
 <table>
     <thead>
         <tr>
-            <th>Tuesday</th>
+            <th>Tuesday, July 30</th>
             <th style="text-align:left">Talk</th>
         </tr>
     </thead>
@@ -253,6 +253,42 @@ Istanbul Center for Mathematical Sciences
         <tr>
             <td>12:00-13:30</td>
             <td style="text-align:left">Lunch Break</td>
+        </tr>
+        <tr>
+            <td>13:30-14:00</td>
+            <td style="text-align:left">Sam Smith, Practical Insights into SGD Hyper-parameters</td>
+        </tr>
+        <tr>
+            <td>14:00-14:30</td>
+            <td style="text-align:left">Mert Gurbuzbalaban, A Tail-Index Analysis of Stochastic Gradient Noise in Deep Neural Networks</td>
+        </tr>
+        <tr>
+            <td>14:30-15:00</td>
+            <td style="text-align:left">Mihai Nica, Gradients of ReLU Networks on Initialization</td>
+        </tr>
+        <tr>
+            <td>15:00-15:20</td>
+            <td style="text-align:left">Joint Q&A and Discussion</td>
+        </tr>
+        <tr>
+            <td>15:20-15:40</td>
+            <td style="text-align:left">Coffee Break</td>
+        </tr>
+        <tr>
+            <td>15:40-16:10</td>
+            <td style="text-align:left">Berfin Simsek, Weight-space symmetry in deep networks gives rise to permutation saddles, connected by equal-loss valleys across the loss landscape</td>
+        </tr>
+        <tr>
+            <td>16:10-16:40</td>
+            <td style="text-align:left">Miguel Ruiz Garcia, Dynamical loss functions for machine learning</td>
+        </tr>
+        <tr>
+            <td>16:40-17:10</td>
+            <td style="text-align:left">Stefano Spigler, Asymptotic Learning Curves of Kernel Methods</td>
+        </tr>
+        <tr>
+            <td>17:10-17:30</td>
+            <td style="text-align:left">Joint Q&A and Discussion</td>
         </tr>
     </tbody>
 </table>
