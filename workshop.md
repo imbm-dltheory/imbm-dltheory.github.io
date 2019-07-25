@@ -218,7 +218,7 @@ Istanbul Center for Mathematical Sciences
 </details>  
 
 
-<table>
+<table cellpadding="0" cellspacing="0">
     <thead>
         <tr>
             <th>Tuesday, July 30</th>
