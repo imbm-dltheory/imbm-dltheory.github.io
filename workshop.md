@@ -218,7 +218,7 @@ Istanbul Center for Mathematical Sciences
 </details>  
 
 
-<table cellpadding="0" cellspacing="0">
+<table>
     <thead>
         <tr>
             <th>Tuesday, July 30</th>
@@ -267,27 +267,87 @@ Istanbul Center for Mathematical Sciences
             <td style="text-align:left">Mihai Nica, Gradients of ReLU Networks on Initialization</td>
         </tr>
         <tr>
-            <td>15:00-15:20</td>
-            <td style="text-align:left">Joint Q&A and Discussion</td>
-        </tr>
-        <tr>
-            <td>15:20-15:40</td>
+            <td>15:00-15:30</td>
             <td style="text-align:left">Coffee Break</td>
         </tr>
         <tr>
-            <td>15:40-16:10</td>
+            <td>15:30-16:00</td>
             <td style="text-align:left">Berfin Simsek, Weight-space symmetry in deep networks gives rise to permutation saddles, connected by equal-loss valleys across the loss landscape</td>
         </tr>
         <tr>
-            <td>16:10-16:40</td>
-            <td style="text-align:left">Miguel Ruiz Garcia, Dynamical loss functions for machine learning</td>
-        </tr>
-        <tr>
-            <td>16:40-17:10</td>
+            <td>16:00-16:30</td>
             <td style="text-align:left">Stefano Spigler, Asymptotic Learning Curves of Kernel Methods</td>
         </tr>
         <tr>
-            <td>17:10-17:30</td>
+            <td>16:30-17:00</td>
+            <td style="text-align:left">Joint Q&A and Discussion</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Wednesday, July 31 </th>
+            <th style="text-align:left">Talk</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>9:00-9:30</td>
+            <td style="text-align:left">Clement Hongler, Neural Tangent Kernel</td>
+        </tr>
+        <tr>
+            <td>9:30-10:00</td>
+            <td style="text-align:left">Eric Vanden-Eijnden, Trainability and Accuracy of Neural Networks: An Interacting Particle System Approach</td>
+        </tr>
+        <tr>
+            <td>10:00-10:30</td>
+            <td style="text-align:left">Coffee break</td>
+        </tr>
+        <tr>
+            <td>10:30-11:00</td>
+            <td style="text-align:left">Mario Geiger (presented by Matthieu Wyart), On the benefits of over-parametrisation: Lazy vs feature learning </td>
+        </tr>
+        <tr>
+            <td>11:00-11:30</td>
+            <td style="text-align:left">Arthur Jacot, Freeze and Chaos for DNNs: an NTK view of Batch Normalization, Checkerboard and Boundary Effects</td>
+        </tr>
+        <tr>
+            <td>11:30-12:00</td>
+            <td style="text-align:left">Joint Q&A and Discussion</td>
+        </tr>
+        <tr>
+            <td>12:00-13:30</td>
+            <td style="text-align:left">Lunch Break</td>
+        </tr>
+        <tr>
+            <td>13:30-14:00</td>
+            <td style="text-align:left">Andrew Saxe, High-dimensional dynamics of generalization error in neural networks</td>
+        </tr>
+        <tr>
+            <td>14:00-14:30</td>
+            <td style="text-align:left">Ioannis Mitliagkas, A Modern Take on the Bias-Variance Tradeoff in Neural Networks</td>
+        </tr>
+        <tr>
+            <td>14:30-15:00</td>
+            <td style="text-align:left">Behnam Neyshabur, TBA</td>
+        </tr>
+        <tr>
+            <td>15:00-15:30</td>
+            <td style="text-align:left">Coffee Break</td>
+        </tr>
+        <tr>
+            <td>15:30-16:00</td>
+            <td style="text-align:left">Aristide Baratin, Rethinking Complexity in Deep Learning: A View from Function Space</td>
+        </tr>
+        <tr>
+            <td>16:00-16:30</td>
+            <td style="text-align:left">Stephane d'Ascoli, TBA</td>
+        </tr>
+        <tr>
+            <td>16:30-17:00</td>
             <td style="text-align:left">Joint Q&A and Discussion</td>
         </tr>
     </tbody>
