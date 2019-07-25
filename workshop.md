@@ -216,3 +216,43 @@ Istanbul Center for Mathematical Sciences
         <p>Each session will include back-to-back 30-minute talks (25 + 5 for questions). During after hours and weekends, the venue will be available for informal discussions. The detailed schedule will be available soon.  </p>
     </p>
 </details>  
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Tuesday</th>
+            <th style="text-align:left">Talk</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>9:00-9:30</td>
+            <td style="text-align:left">Orhan Firat, TBA</td>
+        </tr>
+        <tr>
+            <td>9:30-10:00</td>
+            <td style="text-align:left">Surya Ganguli, Understanding the first steps of vision through interpretable deep learning</td>
+        </tr>
+        <tr>
+            <td>10:00-10:30</td>
+            <td style="text-align:left">Coffee break</td>
+        </tr>
+        <tr>
+            <td>10:30-11:00</td>
+            <td style="text-align:left">Brady Neal, Over-Parametrization in Deep RL and Causal Graphs for Deep Learning Theory</td>
+        </tr>
+        <tr>
+            <td>11:00-11:30</td>
+            <td style="text-align:left">Florent Krzakala, TBA</td>
+        </tr>
+        <tr>
+            <td>11:30-12:00</td>
+            <td style="text-align:left">Joint Q&A and Discussion</td>
+        </tr>
+        <tr>
+            <td>12:00-13:30</td>
+            <td style="text-align:left">Lunch Break</td>
+        </tr>
+    </tbody>
+</table>
