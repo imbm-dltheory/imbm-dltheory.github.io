@@ -227,11 +227,11 @@ Istanbul Center for Mathematical Sciences
     </thead>
     <tbody>
         <tr>
-            <td>9:00-9:30</td>
+            <td>09:00-09:30</td>
             <td style="text-align:left">Orhan Firat, TBA</td>
         </tr>
         <tr>
-            <td>9:30-10:00</td>
+            <td>09:30-10:00</td>
             <td style="text-align:left">Surya Ganguli, Understanding the first steps of vision through interpretable deep learning</td>
         </tr>
         <tr>
@@ -295,11 +295,11 @@ Istanbul Center for Mathematical Sciences
     </thead>
     <tbody>
         <tr>
-            <td>9:00-9:30</td>
+            <td>09:00-09:30</td>
             <td style="text-align:left">Clement Hongler, Neural Tangent Kernel</td>
         </tr>
         <tr>
-            <td>9:30-10:00</td>
+            <td>09:30-10:00</td>
             <td style="text-align:left">Eric Vanden-Eijnden, Trainability and Accuracy of Neural Networks: An Interacting Particle System Approach</td>
         </tr>
         <tr>
