@@ -74,8 +74,6 @@ Istanbul Center for Mathematical Sciences
 
         <li>Aristide Baratin, MILA  </li>
 
-        <li>*Ishmael Belghazi, MILA &amp; Facebook AI    </li>
-
         <li>David Belius, University of Basel  </li>
 
         <li>&dagger;Giulio Biroli, ENS  </li>
@@ -89,6 +87,8 @@ Istanbul Center for Mathematical Sciences
         <li>Alp Eden, Bogazici University (retired)  </li>
 
         <li>Utku Evci, Google  </li>
+        
+        <li>Chiara Facciola, MOX - Politecnico di Milano  </li>
 
         <li>Orhan Firat, Google   </li>
 
