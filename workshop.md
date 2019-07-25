@@ -4,7 +4,7 @@ title: Workshop
 permalink: /workshop/
 ---
 
-_Workshop on Theoretical Advances in Deep Learning_ will take place at the Istanbul Center for Mathematical Sciences. The venue is located inside the Bogazici University main campus.   
+_Workshop on Theoretical Advances in Deep Learning_ will take place at the Istanbul Center for Mathematical Sciences. The venue is located inside the Bogazici University main campus. Click on the arrow to expand for further details below.   
 
 **Dates**  
 Tuesday, July 30 - Friday, August 2, 2019   
@@ -166,57 +166,9 @@ Istanbul Center for Mathematical Sciences
     </p>
 </details>
 
-
-
-<details>
-    <summary>
-        <b markdown="1">
-            Program
-        </b>
-    </summary>
-    <p>  
-        <table>
-            <thead>
-                <tr>
-                    <th>Time</th>
-                    <th style="text-align:left">Event</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>9:00-10:30</td>
-                    <td style="text-align:left">Session 1</td>
-                </tr>
-                <tr>
-                    <td>10:30-11:00</td>
-                    <td style="text-align:left">Coffee Break</td>
-                </tr>
-                <tr>
-                    <td>11:00-12:00</td>
-                    <td style="text-align:left">Session 2</td>
-                </tr>
-                <tr>
-                    <td>12:00-13:30</td>
-                    <td style="text-align:left">Lunch Break</td>
-                </tr>
-                <tr>
-                    <td>13:30-15:00</td>
-                    <td style="text-align:left">Session 3</td>
-                </tr>
-                <tr>
-                    <td>15:00-15:30</td>
-                    <td style="text-align:left">Coffee Break</td>
-                </tr>
-                <tr>
-                    <td>15:30-16:30</td>
-                    <td style="text-align:left">Session 4</td>
-                </tr>
-            </tbody>
-        </table>
-        <p>Each session will include back-to-back 30-minute talks (25 + 5 for questions). During after hours and weekends, the venue will be available for informal discussions. The detailed schedule will be available soon.  </p>
-    </p>
-</details>  
-
+**Program**    
+ 
+Each session will include three to five 30-minute talks (25 + 5) which are followed by a joint Q&A for that session. During after hours and weekends, the venue will be available for informal discussions. The detailed schedule is below. 
 
 | Tuesday, July 30   |
 |--------|
