@@ -218,33 +218,44 @@ Istanbul Center for Mathematical Sciences
 </details>  
 
 
+| Tuesday, July 30   |
+|--------|
+| **09:00-09:30** Orhan Firat, TBA |
+| **09:30-10:00** Surya Ganguli, Understanding the first steps of vision through interpretable deep learning |
+| **10:00-10:30** Coffee break |
+| **10:30-11:00** Brady Neal, Over-Parametrization in Deep RL and Causal Graphs for Deep Learning  ** |
+| **11:00-11:30** Florent Krzakala, TBA |
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+
 <table>
     <thead>
         <tr>
-            <th>Time</th>
             <th style="text-align:left">Tuesday, July 30</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>09:00-09:30</td>
-            <td style="text-align:left">Orhan Firat, TBA</td>
+            <td style="text-align:left">09:00-09:30 Orhan Firat, TBA</td>
         </tr>
         <tr>
-            <td>09:30-10:00</td>
-            <td style="text-align:left">Surya Ganguli, Understanding the first steps of vision through interpretable deep learning</td>
+            <td style="text-align:left">09:30-10:00 Surya Ganguli, Understanding the first steps of vision through interpretable deep learning</td>
         </tr>
         <tr>
-            <td>10:00-10:30</td>
-            <td style="text-align:left">Coffee break</td>
+            <td style="text-align:left">10:00-10:30 Coffee break</td>
         </tr>
         <tr>
-            <td>10:30-11:00</td>
-            <td style="text-align:left">Brady Neal, Over-Parametrization in Deep RL and Causal Graphs for Deep Learning Theory</td>
+            <td style="text-align:left">10:30-11:00 Brady Neal, Over-Parametrization in Deep RL and Causal Graphs for Deep Learning Theory</td>
         </tr>
         <tr>
-            <td>11:00-11:30</td>
-            <td style="text-align:left">Florent Krzakala, TBA</td>
+            <td style="text-align:left">11:00-11:30 Florent Krzakala, TBA</td>
         </tr>
         <tr>
             <td>11:30-12:00</td>
