@@ -175,7 +175,7 @@ Each session will include three to five 30-minute talks (25 + 5) which are follo
 | **09:00-09:30** Orhan Firat, TBA |
 | **09:30-10:00** Surya Ganguli, Understanding the first steps of vision through interpretable deep learning |
 | **10:00-10:30** Coffee break |
-| **10:30-11:00** Brady Neal, Over-Parametrization in Deep RL and Causal Graphs for Deep Learning |
+| **10:30-11:00** Brady Neal, Over-Parametrization in Deep RL and Causal Graphs for Deep Learning Theory |
 | **11:00-11:30** Florent Krzakala, TBA |
 | **11:30-12:00** Joint Q&A and Discussion |
 | **12:00-13:30** Lunch Break |
@@ -200,10 +200,10 @@ Each session will include three to five 30-minute talks (25 + 5) which are follo
 |**12:00-13:30** Lunch Break|
 |**13:30-14:00** Andrew Saxe, High-dimensional dynamics of generalization error in neural networks|
 |**14:00-14:30** Ioannis Mitliagkas, A Modern Take on the Bias-Variance Tradeoff in Neural Networks|
-|**14:30-15:00** Behnam Neyshabur, TBA|
+|**14:30-15:00** Behnam Neyshabur, Understanding the Generalization of Overparameterized Networks |
 |**15:00-15:30** Coffee Break|
 |**15:30-16:00** Aristide Baratin, Rethinking Complexity in Deep Learning: A View from Function Space|
-|**16:00-16:30** Stephane d'Ascoli, TBA|
+|**16:00-16:30** Stephane d'Ascoli, Finding the Needle in the Haystack with Convolutions: on the benefits of architectural bias |
 |**16:30-17:00** Joint Q&A and Discussion|
 
 --- 
@@ -229,7 +229,7 @@ Each session will include three to five 30-minute talks (25 + 5) which are follo
 
 |Friday, August 2|
 |------- |
-|**09:00-09:30** Marylou Gabrie, TBA |
+|**09:00-09:30** Marylou Gabrie, On information theory for deep neural networks |
 |**09:30-10:00** Utku Evci, The Difficulty of Training Sparse Neural Networks |
 |**10:00-10:30** Chiara Cammarota, TBA|
 |**10:30-10:50** Joint Q&A and Discussion|
