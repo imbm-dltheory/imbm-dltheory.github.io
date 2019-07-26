@@ -172,7 +172,7 @@ Each session will include three to five 30-minute talks (25 + 5) which are follo
 
 | Tuesday, July 30   |
 |--------|
-| **09:00-09:30** Orhan Firat, TBA |
+| **09:00-09:30** Orhan Firat, Revisiting Recent Neural Net Theory at Scale |
 | **09:30-10:00** Surya Ganguli, Understanding the first steps of vision through interpretable deep learning |
 | **10:00-10:30** Coffee break |
 | **10:30-11:00** Brady Neal, Over-Parametrization in Deep RL and Causal Graphs for Deep Learning Theory |
