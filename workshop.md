@@ -183,7 +183,7 @@ Each session will include three to five 30-minute talks (25 + 5) which are follo
 | **14:00-14:30** Mert Gurbuzbalaban, A Tail-Index Analysis of Stochastic Gradient Noise in Deep Neural Networks |
 | **14:30-15:00** Mihai Nica, Gradients of ReLU Networks on Initialization  |
 | **15:00-15:30** Coffee Break |
-| **10:00-10:30** Chiara Cammarota, TBA|
+| **10:00-10:30** Chiara Cammarota, Replicated Gradient Descent |
 | **16:00-16:30** Stefano Spigler, Asymptotic Learning Curves of Kernel Methods |
 | **16:30-17:00** Joint Q&A and Discussion |  
 
@@ -210,7 +210,7 @@ Each session will include three to five 30-minute talks (25 + 5) which are follo
 |Thursday, August 1|
 |------- |
 | **09:00-09:30** Ethan Dyer, Training dynamics of wide networks from Feynman diagrams |
-| **09:30-10:00** Dan Roberts, TBA |
+| **09:30-10:00** Dan Roberts, Robust Learning with Jacobian Regularizarion |
 | **10:00-10:30** Coffee break|
 | **10:30-11:00** Sho Yaida, Fluctuation-Dissipation Relation for Stochastic Gradient Descent |
 | **11:00-11:30** David Schwab, TBA |
