@@ -183,60 +183,59 @@ Each session will include three to five 30-minute talks (25 + 5) which are follo
 | **14:00-14:30** Mert Gurbuzbalaban, A Tail-Index Analysis of Stochastic Gradient Noise in Deep Neural Networks |
 | **14:30-15:00** Mihai Nica, Gradients of ReLU Networks on Initialization  |
 | **15:00-15:30** Coffee Break |
-| **15:30-16:00** Berfin Simsek, Weight-space symmetry in deep networks gives rise to permutation saddles, connected by equal-loss valleys across the loss landscape |
+| **10:00-10:30** Chiara Cammarota, TBA|
 | **16:00-16:30** Stefano Spigler, Asymptotic Learning Curves of Kernel Methods |
-| **16:30-17:00** Joint Q&A and Discussion |
+| **16:30-17:00** Joint Q&A and Discussion |  
 
----
 
 |Wednesday, July 31|
 |------- |
-|**09:00-09:30** Clement Hongler, Neural Tangent Kernel|
-|**09:30-10:00** Eric Vanden-Eijnden, Trainability and Accuracy of Neural Networks: An Interacting Particle System Approach|
-|**10:00-10:30** Coffee break|
-|**10:30-11:00** Mario Geiger (presented by Matthieu Wyart), On the benefits of over-parametrisation: Lazy vs feature learning|
-|**11:00-11:30** Arthur Jacot, Freeze and Chaos for DNNs: an NTK view of Batch Normalization, Checkerboard and Boundary Effects|
-|**11:30-12:00** Joint Q&A and Discussion|
-|**12:00-13:30** Lunch Break|
-|**13:30-14:00** Andrew Saxe, High-dimensional dynamics of generalization error in neural networks|
-|**14:00-14:30** Ioannis Mitliagkas, A Modern Take on the Bias-Variance Tradeoff in Neural Networks|
-|**14:30-15:00** Behnam Neyshabur, Understanding the Generalization of Overparameterized Networks |
-|**15:00-15:30** Coffee Break|
-|**15:30-16:00** Aristide Baratin, Rethinking Complexity in Deep Learning: A View from Function Space|
-|**16:00-16:30** Stephane d'Ascoli, Finding the Needle in the Haystack with Convolutions: on the benefits of architectural bias |
-|**16:30-17:00** Joint Q&A and Discussion|
+| **09:00-09:30** Clement Hongler, Neural Tangent Kernel|
+| **09:30-10:00** Eric Vanden-Eijnden, Trainability and Accuracy of Neural Networks: An Interacting Particle System Approach|
+| **10:00-10:30** Coffee break|
+| **10:30-11:00** Mario Geiger (presented by Matthieu Wyart), On the benefits of over-parametrisation: Lazy vs feature learning|
+| **11:00-11:30** Arthur Jacot, Freeze and Chaos for DNNs: an NTK view of Batch Normalization, Checkerboard and Boundary Effects|
+| **11:30-12:00** Joint Q&A and Discussion|
+| **12:00-13:30** Lunch Break|
+| **13:30-14:00** Andrew Saxe, High-dimensional dynamics of generalization error in neural networks|
+| **14:00-14:30** Ioannis Mitliagkas, A Modern Take on the Bias-Variance Tradeoff in Neural Networks|
+| **14:30-15:00** Behnam Neyshabur, Understanding the Generalization of Overparameterized Networks |
+| **15:00-15:30** Coffee Break|
+| **15:30-16:00** Aristide Baratin, Rethinking Complexity in Deep Learning: A View from Function Space|
+| **16:00-16:30** Stephane d'Ascoli, Finding the Needle in the Haystack with Convolutions: on the benefits of architectural bias |
+| **16:30-17:00** Joint Q&A and Discussion|  
 
---- 
+
 
 |Thursday, August 1|
 |------- |
-|**09:00-09:30** Ethan Dyer, Training dynamics of wide networks from Feynman diagrams |
-|**09:30-10:00** Dan Roberts, TBA |
-|**10:00-10:30** Coffee break|
-|**10:30-11:00** Sho Yaida, Fluctuation-Dissipation Relation for Stochastic Gradient Descent |
-|**11:00-11:30** David Schwab, TBA |
-|**11:30-12:00** Joint Q&A and Discussion|
-|**12:00-13:30** Lunch Break|
-|**13:30-14:00** Lenka Zdeborova, Are generative models the new sparsity? Part I |
-|**14:00-14:30** Benjamin Aubin, Are generative models the new sparsity? Part II |
-|**14:30-15:00** Fabian Latorre, Fast and Provable ADMM for Learning with Generative Priors |
-|**15:00-15:30** Coffee Break|
-|**15:30-16:00** Silvio Franz, Learning and generalization in quasi-regular environments: a 'shallow' theory |
-|**16:00-16:30** Vardan Papyan, Three-Level Hierarchical Structure in Deepnet Features, Jacobians and Hessians |
-|**16:30-17:00** Joint Q&A and Discussion|
+| **09:00-09:30** Ethan Dyer, Training dynamics of wide networks from Feynman diagrams |
+| **09:30-10:00** Dan Roberts, TBA |
+| **10:00-10:30** Coffee break|
+| **10:30-11:00** Sho Yaida, Fluctuation-Dissipation Relation for Stochastic Gradient Descent |
+| **11:00-11:30** David Schwab, TBA |
+| **11:30-12:00** Joint Q&A and Discussion|
+| **12:00-13:30** Lunch Break|
+| **13:30-14:00** Lenka Zdeborova, Are generative models the new sparsity? Part I |
+| **14:00-14:30** Benjamin Aubin, Are generative models the new sparsity? Part II |
+| **14:30-15:00** Fabian Latorre, Fast and Provable ADMM for Learning with Generative Priors |
+| **15:00-15:30** Coffee Break|
+| **15:30-16:00** Silvio Franz, Learning and generalization in quasi-regular environments: a 'shallow' theory |
+| **16:00-16:30** Vardan Papyan, Three-Level Hierarchical Structure in Deepnet Features, Jacobians and Hessians |
+| **16:30-17:00** Joint Q&A and Discussion|  
 
----
+
 
 |Friday, August 2|
 |------- |
-|**09:00-09:30** Marylou Gabrie, On information theory for deep neural networks |
-|**09:30-10:00** Utku Evci, The Difficulty of Training Sparse Neural Networks |
-|**10:00-10:30** Chiara Cammarota, TBA|
-|**10:30-10:50** Joint Q&A and Discussion|
-|**10:50-11:10** Coffee Break|
-|**11:10-11:40** Stefano Sarao, The Fate of the Spurious: descent algorithms and rough landscapes |
-|**11:40-12:10** Sungmin Hwang, Jamming in multilayer supervised learning models |
-|**12:10-12:40** Miguel Ruiz Garcia, Dynamical loss functions for machine learning |
-|**12:40-13:00** Joint Q&A and Discussion|
-|**13:00-15:00** Lunch and Round Table Discussion |
+| **09:00-09:30** Marylou Gabrie, On information theory for deep neural networks |
+| **09:30-10:00** Utku Evci, The Difficulty of Training Sparse Neural Networks |
+| **15:30-16:00** Berfin Simsek, Weight-space symmetry in deep networks gives rise to permutation saddles, connected by equal-loss valleys across the loss landscape |
+| **10:30-10:50** Joint Q&A and Discussion|
+| **10:50-11:10** Coffee Break|
+| **11:10-11:40** Stefano Sarao, The Fate of the Spurious: descent algorithms and rough landscapes |
+| **11:40-12:10** Sungmin Hwang, Jamming in multilayer supervised learning models |
+| **12:10-12:40** Miguel Ruiz Garcia, Dynamical loss functions for machine learning |
+| **12:40-13:00** Joint Q&A and Discussion|
+| **13:00-15:00** Lunch and Round Table Discussion |  
 
