@@ -176,14 +176,14 @@ Each session will include three to five 30-minute talks (25 + 5) which are follo
 | **09:30-10:00** Surya Ganguli, Understanding the first steps of vision through interpretable deep learning |
 | **10:00-10:30** Coffee break |
 | **10:30-11:00** Brady Neal, Over-Parametrization in Deep RL and Causal Graphs for Deep Learning Theory |
-| **11:00-11:30** Florent Krzakala, TBA |
+| **11:00-11:30** Florent Krzakala, Some Results on One and Two Layer Neural Nets |
 | **11:30-12:00** Joint Q&A and Discussion |
 | **12:00-13:30** Lunch Break |
 | **13:30-14:00** Sam Smith, Practical Insights into SGD Hyper-parameters |
 | **14:00-14:30** Mert Gurbuzbalaban, A Tail-Index Analysis of Stochastic Gradient Noise in Deep Neural Networks |
 | **14:30-15:00** Mihai Nica, Gradients of ReLU Networks on Initialization  |
 | **15:00-15:30** Coffee Break |
-| **10:00-10:30** Chiara Cammarota, Replicated Gradient Descent |
+| **15:30-16:00** Chiara Cammarota, Replicated Gradient Descent |
 | **16:00-16:30** Stefano Spigler, Asymptotic Learning Curves of Kernel Methods |
 | **16:30-17:00** Joint Q&A and Discussion |  
 
@@ -230,7 +230,7 @@ Each session will include three to five 30-minute talks (25 + 5) which are follo
 |------- |
 | **09:00-09:30** Marylou Gabrie, On information theory for deep neural networks |
 | **09:30-10:00** Utku Evci, The Difficulty of Training Sparse Neural Networks |
-| **15:30-16:00** Berfin Simsek, Weight-space symmetry in deep networks gives rise to permutation saddles, connected by equal-loss valleys across the loss landscape |
+| **10:00-10:30** Berfin Simsek, Weight-space symmetry in deep networks: permutation saddles & valleys |
 | **10:30-10:50** Joint Q&A and Discussion|
 | **10:50-11:10** Coffee Break|
 | **11:10-11:40** Stefano Sarao, The Fate of the Spurious: descent algorithms and rough landscapes |
