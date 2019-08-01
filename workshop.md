@@ -210,10 +210,10 @@ Each session will include three to five 30-minute talks (25 + 5) which are follo
 |Thursday, August 1|
 |------- |
 | **09:00-09:30** Ethan Dyer, Training dynamics of wide networks from Feynman diagrams |
-| **09:30-10:00** Dan Roberts, Robust Learning with Jacobian Regularizarion |
+| **09:30-10:00** Dan Roberts, SGD Implicitly Regularizes Generalization Error |
 | **10:00-10:30** Coffee break|
 | **10:30-11:00** Sho Yaida, Fluctuation-Dissipation Relation for Stochastic Gradient Descent |
-| **11:00-11:30** David Schwab, TBA |
+| **11:00-11:30** David Schwab, How noise affects the Hessian spectrum in overparameterized neural networks |
 | **11:30-12:00** Joint Q&A and Discussion|
 | **12:00-13:30** Lunch Break|
 | **13:30-14:00** Lenka Zdeborova, Are generative models the new sparsity? Part I |
