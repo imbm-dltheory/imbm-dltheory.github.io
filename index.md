@@ -28,9 +28,21 @@ The day-long event will take place as a satellite meeting of the core workshop. 
 __Workshop, Tuesday - Friday, July 29 - August 2, 2019__  
 The workshop will be a series of focus group research seminars on Theoretical Advances in Deep Learning. It will take place at Istanbul Center for Mathematical Sciences [(IMBM)](http://www.imbm.org.tr). The venue is located inside Bogazici University South Campus.  
 
+---
+
 <center>
-    <b> Both events are full! </b>
+    <b>
+        <a href="https://www.dropbox.com/sh/h31idwa1wuatzcs/AABraWjymvmwxoHFlRvzHXBKa?dl=0">
+            <h1>
+                <u>
+                    Slides are available here!
+                </u>
+            </h1>
+        </a>  
+    </b>
 </center>
+
+---    
     
 **Getting there**   
 Both events will be on the same campus. The easiest way to find either venue is to arrive at Bogazici University Metro Station and walk down to the South Campus. [[Google Maps]](https://goo.gl/maps/ZQLEFxjGaCWjDg3e9)
